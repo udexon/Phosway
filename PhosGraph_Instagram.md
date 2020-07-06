@@ -12,9 +12,23 @@ We run the Python Selenium script as shown in figure 2 in interactive mode (`pyt
 - Figure 2
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/PhosGraph_py.png" width=400>
 
-We omit other start up scripts in figure 2 for clarity. Additional explanation can be found ....
+We have omitted other start up scripts in figure 2 for clarity. Additional explanation can be found ....
 
+Figure 3 shows the PhosGraph page where the json data is entered, corresponding to lines 9 to 14 in figure 2.
+
+- Figure 3
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/post_rc_1.png" width=600>
+
+Figure 4 shows the PhosGraph GET interface, where the database, essentially kept as a space delimited text file, can be accessed via Phoscript Reverse Polish Notation.
+
+- Figure 4
+<img src="https://github.com/udexon/Phosway/blob/master/Instagram/phos_get.png" width=600>
+
+Figure 5 shows the same database text file displayed using the text editor provided by the free hosting website.
+
+- Figure 5
+<img src="https://github.com/udexon/Phosway/blob/master/Instagram/data_log.png" width=600>
+
 
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/basskitten.png" width=600>
 
@@ -24,6 +38,4 @@ We omit other start up scripts in figure 2 for clarity. Additional explanation c
 
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/likes.png" width=600>
 
-<img src="https://github.com/udexon/Phosway/blob/master/Instagram/phos_get.png" width=600>
 
-<img src="https://github.com/udexon/Phosway/blob/master/Instagram/data_log.png" width=600>
