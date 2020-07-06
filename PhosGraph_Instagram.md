@@ -1,6 +1,13 @@
-<img src="https://github.com/udexon/Phosway/blob/master/Instagram/PhosGraph_py.png" width=400>
+We use a mixture of manual control and Python Selenium script, to extract data from Instagram pages, and save them to the PhosGraph database, as illustrated with the series of screenshots below.
 
+After login to Instagram using a web browser, we navigate to a typical user page like the following, with screenshot as shown in figure 1:
+
+- https://www.instagram.com/emmeline_glam/
+
+- Figure 1
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/emmeline_glam.png" width=600>
+
+<img src="https://github.com/udexon/Phosway/blob/master/Instagram/PhosGraph_py.png" width=400>
 
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/post_rc_1.png" width=600>
 
