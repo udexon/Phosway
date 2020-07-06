@@ -9,3 +9,7 @@
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/novababe.png" width=600>
 
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/likes.png" width=600>
+
+<img src="https://github.com/udexon/Phosway/blob/master/Instagram/phos_get.png" width=600>
+
+<img src="https://github.com/udexon/Phosway/blob/master/Instagram/data_log.png" width=600>
