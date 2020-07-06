@@ -29,13 +29,26 @@ Figure 5 shows the same database text file displayed using the text editor provi
 - Figure 5
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/data_log.png" width=600>
 
+Figures 6 through 9 show the steps PRIOR to opening the page shown in figure 1. We have arranged the explanation for the steps leading to figure 1 after the steps described above because the steps above are easier to understand.
 
+After saving the json data to PhosGraph database, we may navigate back to figure 1. Figure 6 shows the similar page in the PREVIOUS cycle.
+
+- Figure 6
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/basskitten.png" width=600>
 
+By clicking on "following" at the second row of texts from the top, it opens the "PEOPLE / HASTAGS" floating window as show in figure 7. By clicking "HASHTAG", all the hashtags followed by the current user will be displayed.
+
+- Figure 7
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/hashtags.png" width=600>
 
+Clicking at "#novababe", it leads to a page as shown in figure 8. By hovering the mouse pointer above the thumbnails in figure 8, the number of likes for each thumbnail can be seen. We then chose the thumbnail with the highest number of likes, which then led us to figure 9.
+
+- Figure 8
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/novababe.png" width=600>
 
+By clicking at the user name shown at the top right of the floating window in figure 9, it led us back to the page shown in figure 1.
+
+- Figure 9
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/likes.png" width=600>
 
-
+The above cycle is repeated to discover more hashtags and popular Instagram accounts with large number of followers.
