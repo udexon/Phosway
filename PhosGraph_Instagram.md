@@ -7,7 +7,12 @@ After login to Instagram using a web browser, we navigate to a typical user page
 - Figure 1
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/emmeline_glam.png" width=600>
 
+We run the Python Selenium script as shown in figure 2 in interactive mode (`python3 -i`):
+
+- Figure 2
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/PhosGraph_py.png" width=400>
+
+We omit other start up scripts in figure 2 for clarity. Additional explanation can be found ....
 
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/post_rc_1.png" width=600>
 
