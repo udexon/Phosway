@@ -1,8 +1,6 @@
 # Phosway
-Phosway
 
-
-I. Phosway: A Revolutionary Software Architecture
+## I. Phosway: A Revolutionary Software Architecture
 
 Phosway is a revolutionary, comprehensive suite of projects consisting of modules from ID-less payments, distributed cloud, to a lightweight but flexible Forth like programming framework. Phosway is designed to overcome the bottlenecks and limitations of today’s network computing infrastructure. It can be deployed in an incremental and non-disruptive manner, so that your existing infrastructure can be migrated seamlessly to a future-proof platform:
 
