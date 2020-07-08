@@ -1,23 +1,14 @@
 EMYL Instagram PhosGraph
 
-
-From Bazaar, Industrialization to EMYL -- Fighting Workplace Discrimination with "Earn Money as You Learn"
-
-
-:: Need to highlight EMYL as a philosophy behind all of Phosway projects, the middle way between capitalism and socialism, secret of success of China.
-
-:: Use China as opening
-
-
 We define Free Software Revolution 1.0 (FSR1) as the period encompassing the creation of GNU Linux and tools to Google's acquisition of the Android operating system. The mobile computing era, empowered by Android and iOS, saw the rise of tech giants and start-ups worth trillions of USD, as well as cryptocurrencies. 
 
 We may say FSR1 is essentially CLONING the then proprietary Unix operating systems and tools.
 
-Free Software Revolution 2.0 will then be the CLONING of MAGAF social networks, where MAGAF stands for Microsoft Apple Google Amazon Facebook. It is a pun to MAGA+F, everyone's favorite derogatory letter.
+Free Software Revolution 2.0 (FSR2) will then be the CLONING of MAGAF social networks, where MAGAF stands for Microsoft Apple Google Amazon Facebook. It is a pun to MAGA+F, everyone's favorite derogatory letter.
 
 Cloning MAGAF is not rocket science. There are enough free software programmers to do so. However, they move like random air particles. We need SEVERAL BREAKTHROUGH MECHANISMS to make these most talented individuals on Earth to become "self organized". Phosway is the name of this comprehensive suite of projects.
 
-
+:: explaining why CLONING ... not that bad ...
 
 :: start of notes, end with double blank lines
 
@@ -49,19 +40,19 @@ Fortunately like everything else in free software, everything from concepts to c
 The name PhosGraph refers to the graph database employed on the website.
 
 Link to Phosway.
-….
+
+https://github.com/udexon/Phosway/blob/master/README.md
 
 
-B. PhosGraph Instagram Examples
-
-2.
+## B. PhosGraph Instagram Examples
 
 Let us illustrate the philosophy and benefits of EMYL using the following example:
 
 The number of followers of an Instagram user is extracted and saved on a publicly accessible web server, PhosGraph.
 Anyone may be able to query the PhosGraph server, as well as contribute code to enhance its functionalities.
 Donors may pay contributors of PhosGraph using PhosPay, a novel ID-less online payment system system based on transient key cryptography.
- https://github.com/udexon/Phosway/blob/master/PhosGraph_Instagram.md
+
+https://github.com/udexon/Phosway/blob/master/PhosGraph_Instagram.md
 
 The example given in the link above seems completely counterintuitive compared to the "mainstream" web programming solutions in recent years. i.e. One expects to see a node.js or yarn project with a beautiful front end and a sophisticated back end which consume no less than 500MB or disk space.
 
@@ -78,20 +69,18 @@ Transient key cryptography: algorithms based on asymmetric cryptography where th
 
 Graph database: a database whose structure is represented as a graph, by definition, made up of vertices (nodes) and edges.
 
-Question:
-
-Why are we using space delimited text files as database in the age of so many "proper" graph database software?
-
-The most important difference between graph database and conventional SQL database is often muddled by other technical issues: the key of an object, equivalent to the field or column in SQL database, can be defined on the fly. This feature makes a text file of JSON data a graph database, more flexible than any multi gigabytes SQL installation. This conclusion however may be too embarrassing for DB admins, hence perhaps intentionally subdued over the years.
+- Question: Why are we using space delimited text files as database in the age of so many "proper" graph database software?
 
 Answer: the conventional graph database software have too many outdated assumptions which may hinder Phosway.
+
+The most important difference between graph database and conventional SQL database is often muddled by other technical issues: the key of an object, equivalent to the field or column in SQL database, can be defined on the fly. This feature makes a text file of JSON data a graph database, more flexible than any multi gigabytes SQL installation. This conclusion however may be too embarrassing for DB admins, hence perhaps intentionally subdued over the years.
 
 We may still use them as and when needed.
 
 The core issue here is not whether theoretically a JSON data file is a graph database, as we could easily write a wrapper module to convert the JSON data into any format required by established graph database software. The core issue here is how to incorporate TKC into GDB ….  And train new free software programmers, and make them earn money as they learn ….
 
 
-F. Next Steps towards PhosPay
+## C. Next Steps towards PhosPay
 
 What is next?
 
@@ -142,13 +131,10 @@ Other talents like video editing etc. are needed.
 
 All paid using PhosPay.
 
-
 :: List to do until PhosPay is usable ….
 
 
-
-
-E. Purpose of EMYL is to provide training
+## D. Purpose of EMYL is to provide training
 
 Our purpose is to educate the next generation of free software programmers, Earn Money as You Learn. Goal is to make everyone earn as much as shareholders of MAGAF, by creating a fair platform for all developers and users to participate.
 
@@ -161,7 +147,7 @@ Emphasize Phoscript one word at a time!!!
 Most of the components needed for PhosPay already exist. We just need to copy them and make modifications.
 
 
-H. Investment needed for Search Engine or PhosKnow
+## E. Investment needed for Phosway ... Search Engine or PhosKnow
 
 PhosEngine or PhosKnow are more complicated to grasp for users … ??
 
@@ -172,8 +158,6 @@ PhosEngine or PhosKnow are more complicated to grasp for users … ??
 3. PhosKnow. Better Wikipedia?
 
 Analyze the benefits of one particular aspect, e.g. PhosKnow, compared to other aspects, to give readers a comprehensive picture.
-
-:: Write all notes with numbers. Easier to organize and think and estimate how much has been written, how much more is needed.
 
 
 Workplace discrimination means plenty of work force for Phosway at all ages, anywhere in the world.
