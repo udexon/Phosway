@@ -59,12 +59,34 @@ Just like GNU projects started by cloning Unix, Phosway just needs to clone MAGA
 We already win, because of our zero costs and more efficient profit sharing scheme via PhosPay.
 
 A to Z
-A = Start from Online tipping (EMYL Instagram Social Networks).
-Z = So main activity is clone MAGAF. 
+- A = Start from Online tipping (EMYL Instagram Social Networks).
+- Z = So main activity is clone MAGAF. 
 
 :: N4 explaining why CLONING ... not that bad ...
 
 Cloning MAGAF is not rocket science. There are enough free software programmers to do so. They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
+
+1. Phoscript Phoshell are done. One word at a time. Easy to teach. Helps EMYL?
+
+2. Port existing code in other Programming Languages and frameworks to Phos. This is low level work. This explains more than 50% of Phosway plan.
+
+Helps individual project to train people, easier because of HUDAPI, incentivized by PhosPay
+
+3. PhosKey is a critical component in distributed cloud, blockchain etc. Used together with PhosGraph.
+
+PhosCloud needs ssh tunnel shared vps. BitTorrent ++.
+
+PhosCloud = PhosKey + PhosGraph + PhosTunnel
+
+4. PhosPay PhosChat are critical for social networks PhosNet? . Forum comments, database are based on PhosGraph.
+
+Just describe how Phosway components replicate MAGAF, Twitter etc. 
+
+1 2 3 4 are 4 different layers of OSI, from low to high.
+
+5. Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2. 
+
+
 
 https://github.com/udexon/PhosPay
 
