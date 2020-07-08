@@ -11,6 +11,8 @@ Cloning MAGAF is not rocket science. There are enough free software programmers 
 
 :: N1 label notes with numbers, so that can calculate how much more to correct
 
+How to connect paragraphs above and below?
+
 explaining why CLONING ... not that bad ...
 
 :: start of notes, end with double blank lines
