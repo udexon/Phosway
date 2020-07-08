@@ -8,7 +8,10 @@ Free Software Revolution 2.0 (FSR2) will then be the CLONING of MAGAF social net
 
 Cloning MAGAF is not rocket science. There are enough free software programmers to do so. However, they move like random air particles. We need SEVERAL BREAKTHROUGH MECHANISMS to make these most talented individuals on Earth to become "self organized". Phosway is the name of this comprehensive suite of projects.
 
-:: explaining why CLONING ... not that bad ...
+
+:: N1 label notes with numbers, so that can calculate how much more to correct
+
+explaining why CLONING ... not that bad ...
 
 :: start of notes, end with double blank lines
 
@@ -35,11 +38,11 @@ Some readers might be wondering what the breakthroughs are that make EMYL possib
 Fortunately like everything else in free software, everything from concepts to code concerning EMYL are transparent, subject to scrutiny by anyone interested. 
 
 
+:: N2
+
 1. Phosway Modules
 
 The name PhosGraph refers to the graph database employed on the website.
-
-Link to Phosway.
 
 https://github.com/udexon/Phosway/blob/master/README.md
 
@@ -77,10 +80,15 @@ The most important difference between graph database and conventional SQL databa
 
 We may still use them as and when needed.
 
+
+:: N3
+
 The core issue here is not whether theoretically a JSON data file is a graph database, as we could easily write a wrapper module to convert the JSON data into any format required by established graph database software. The core issue here is how to incorporate TKC into GDB ….  And train new free software programmers, and make them earn money as they learn ….
 
 
 ## C. Next Steps towards PhosPay
+
+:: N4
 
 What is next?
 
@@ -136,6 +144,8 @@ All paid using PhosPay.
 
 ## D. Purpose of EMYL is to provide training
 
+:: N5
+
 Our purpose is to educate the next generation of free software programmers, Earn Money as You Learn. Goal is to make everyone earn as much as shareholders of MAGAF, by creating a fair platform for all developers and users to participate.
 
 Discuss here or later? Differences?
@@ -148,6 +158,8 @@ Most of the components needed for PhosPay already exist. We just need to copy th
 
 
 ## E. Investment needed for Phosway ... Search Engine or PhosKnow
+
+:: N6
 
 PhosEngine or PhosKnow are more complicated to grasp for users … ??
 
