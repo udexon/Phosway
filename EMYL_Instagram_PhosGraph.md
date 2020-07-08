@@ -9,37 +9,6 @@ Free Software Revolution 2.0 (FSR2) will then be the CLONING of MAGAF social net
 Cloning MAGAF is not rocket science. There are enough free software programmers to do so. However, they move like random air particles. We need SEVERAL BREAKTHROUGH MECHANISMS to make these most talented individuals on Earth to become "self organized". Phosway is the name of this comprehensive suite of projects. (Click [here](https://github.com/udexon/Phosway/blob/master/README.md) for details.)
 
 
-:: N1 label notes with numbers, so that can calculate how much more to correct
-
-How to connect paragraphs above and below?
-
-explaining why CLONING ... not that bad ...
-
-:: start of notes, end with double blank lines
-
-List Phosway A to Z.
-
-A = EMYL Instagram tipping using PhosPay, EMYL includes Phosway PhosPay coaching.
-
-They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
-
-- Workplace discrimination is a cancer of the industrialized world. While some religions advocate altruism, the label of religion itself has more often than not become an excuse of discrimination.
-
-
-
-Through examples in literature and surviving practices from pre industrialized era, we derived a training scheme known as " Earn Money as You Learn" (EMYL), which we believe will be effective in fighting workplace discrimination.
-
-EMYL has one of its roots in the free software movement, which we recognize as having originated from Richard Stallman developing the GNU C Compiler and clones of Unix system tools.
-
-While some proponents and opponents of the free software movement have compared it to Communism, it has contributed to and become the essential foundation of the Internet and mobile networks, driving literally one of the most if not the most important industry in the world today, serving peoples, companies and governments worldwide.
-
-Yet as free software programmers continue to contribute selflessly to the common good of mankind, they are not fairly rewarded, as some of them get to be hired by MAGAF, while others continue to fight from the defensive end of workplace discrimination.
-
-Some readers might be wondering what the breakthroughs are that make EMYL possible. Some may even doubt if EMYL sounds too good to be true.
-
-Fortunately like everything else in free software, everything from concepts to code concerning EMYL are transparent, subject to scrutiny by anyone interested. 
-
-
 ## B. PhosGraph Instagram Examples
 
 Let us illustrate the philosophy and benefits of EMYL using the following example:
@@ -121,6 +90,39 @@ Cloning MAGAF is not rocket science. There are enough free software programmers 
 2. User B tips IG1.
 
 Tipping on any social network and EMYL coaching for Phosway.
+
+
+:: N4 label notes with numbers, so that can calculate how much more to correct
+
+How to connect paragraphs above and below?
+
+explaining why CLONING ... not that bad ...
+
+:: start of notes, end with double blank lines
+
+List Phosway A to Z.
+
+A = EMYL Instagram tipping using PhosPay, EMYL includes Phosway PhosPay coaching.
+
+They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
+
+- Workplace discrimination is a cancer of the industrialized world. While some religions advocate altruism, the label of religion itself has more often than not become an excuse of discrimination.
+
+
+
+Through examples in literature and surviving practices from pre industrialized era, we derived a training scheme known as " Earn Money as You Learn" (EMYL), which we believe will be effective in fighting workplace discrimination.
+
+EMYL has one of its roots in the free software movement, which we recognize as having originated from Richard Stallman developing the GNU C Compiler and clones of Unix system tools.
+
+While some proponents and opponents of the free software movement have compared it to Communism, it has contributed to and become the essential foundation of the Internet and mobile networks, driving literally one of the most if not the most important industry in the world today, serving peoples, companies and governments worldwide.
+
+Yet as free software programmers continue to contribute selflessly to the common good of mankind, they are not fairly rewarded, as some of them get to be hired by MAGAF, while others continue to fight from the defensive end of workplace discrimination.
+
+Some readers might be wondering what the breakthroughs are that make EMYL possible. Some may even doubt if EMYL sounds too good to be true.
+
+Fortunately like everything else in free software, everything from concepts to code concerning EMYL are transparent, subject to scrutiny by anyone interested. 
+
+
 
 3. IG1 holds meet the fans parties
 
