@@ -50,13 +50,17 @@ The core issue here is not whether theoretically a JSON data file is a graph dat
 
 ## C. Next Steps towards PhosPay
 
-:: N4
-
-What is next?
-
 How might one make use of the data in PhosGraph?
 
-PhosPay link
+Just like GNU projects started by cloning Unix, Phosway just needs to clone MAGAF. We already win, because of our zero costs and more efficient profit sharing scheme via PhosPay.
+
+A to Z
+A = Start from Online tipping (EMYL Instagram Social Networks).
+Z = So main activity is clone MAGAF. 
+
+:: N4 explaining why CLONING ... not that bad ...
+
+Cloning MAGAF is not rocket science. There are enough free software programmers to do so. They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
 
 https://github.com/udexon/PhosPay
 
@@ -70,22 +74,6 @@ By law of slow change of popularity, a famous person will stay famous over a cer
 
 How to use them? Need a micropayment system PhosPay to monetize information in PhosGraph, just like how MAGAF make money, but more transparent, open, small amounts.
 
-In conventional model MAGAF, (data code money) 3 elements interact with each other. So in Phosway, (data code money) = ( PhosGraph PhosCloud PhosPay ). We can just replicate MAGAF and make money?
-
-MAGAF CDM model is not transparent. Hence difficult to analyze. But Phos CDM model is transparent, can analyze. Use Phos CDM to infer MAGAF CDM!!
-
-Science and mathematics are about exploring relationships of 3 or more variables. There are infinite number of variables. To reduce them is part of analysis. 3 is a number between 2 and more than 3. So …. 
-
-Y = F X
-M = C D
-
-Just like GNU cloned Unix, Phosway just need to clone MAGAF, we already win, because of our zero costs and more efficient profit sharing scheme via PhosPay.
-
-A to Z
-A = Start from Online tipping.
-Z = So main activity is clone MAGAF. 
-
-Cloning MAGAF is not rocket science. There are enough free software programmers to do so. They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
 
 2. User B tips IG1.
 
@@ -96,11 +84,10 @@ Tipping on any social network and EMYL coaching for Phosway.
 
 How to connect paragraphs above and below?
 
-explaining why CLONING ... not that bad ...
-
 :: start of notes, end with double blank lines
 
-List Phosway A to Z.
+
+:: N4 List Phosway A to Z.
 
 A = EMYL Instagram tipping using PhosPay, EMYL includes Phosway PhosPay coaching.
 
@@ -123,10 +110,10 @@ Some readers might be wondering what the breakthroughs are that make EMYL possib
 Fortunately like everything else in free software, everything from concepts to code concerning EMYL are transparent, subject to scrutiny by anyone interested. 
 
 
-
 3. IG1 holds meet the fans parties
 
 PhosChat anonymous chat between fans and celebrities, very important, huge demand, captive market. Fraud from hacking dating websites.
+
 
 4. Local sponsors hire IG1 to make advertisement videos.
 
