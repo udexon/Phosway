@@ -52,7 +52,11 @@ The core issue here is not whether theoretically a JSON data file is a graph dat
 
 How might one make use of the data in PhosGraph?
 
-Just like GNU projects started by cloning Unix, Phosway just needs to clone MAGAF. We already win, because of our zero costs and more efficient profit sharing scheme via PhosPay.
+Just like GNU projects started by cloning Unix, Phosway just needs to clone MAGAF. 
+
+　Explain costs later. First explain relations of phos modules and how do they clone magaf. 
+
+We already win, because of our zero costs and more efficient profit sharing scheme via PhosPay.
 
 A to Z
 A = Start from Online tipping (EMYL Instagram Social Networks).
