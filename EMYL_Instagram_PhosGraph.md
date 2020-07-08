@@ -21,7 +21,7 @@ A = EMYL Instagram tipping using PhosPay, EMYL includes Phosway PhosPay coaching
 
 They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
 
-Workplace discrimination is a cancer of the industrialized world. While some religions advocate altruism, the label of religion itself has more often than not become an excuse of discrimination.
+- Workplace discrimination is a cancer of the industrialized world. While some religions advocate altruism, the label of religion itself has more often than not become an excuse of discrimination.
 
 
 
