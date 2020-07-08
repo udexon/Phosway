@@ -6,7 +6,7 @@ We may say FSR1 is essentially CLONING the then proprietary Unix operating syste
 
 Free Software Revolution 2.0 (FSR2) will then be the CLONING of MAGAF social networks, where MAGAF stands for Microsoft Apple Google Amazon Facebook. It is a pun to MAGA+F, everyone's favorite derogatory letter.
 
-Cloning MAGAF is not rocket science. There are enough free software programmers to do so. However, they move like random air particles. We need SEVERAL BREAKTHROUGH MECHANISMS to make these most talented individuals on Earth to become "self organized". Phosway is the name of this comprehensive suite of projects.
+Cloning MAGAF is not rocket science. There are enough free software programmers to do so. However, they move like random air particles. We need SEVERAL BREAKTHROUGH MECHANISMS to make these most talented individuals on Earth to become "self organized". Phosway is the name of this comprehensive suite of projects. (Click [here](https://github.com/udexon/Phosway/blob/master/README.md) for details.)
 
 
 :: N1 label notes with numbers, so that can calculate how much more to correct
@@ -36,15 +36,6 @@ Yet as free software programmers continue to contribute selflessly to the common
 Some readers might be wondering what the breakthroughs are that make EMYL possible. Some may even doubt if EMYL sounds too good to be true.
 
 Fortunately like everything else in free software, everything from concepts to code concerning EMYL are transparent, subject to scrutiny by anyone interested. 
-
-
-:: N2
-
-1. Phosway Modules
-
-The name PhosGraph refers to the graph database employed on the website.
-
-https://github.com/udexon/Phosway/blob/master/README.md
 
 
 ## B. PhosGraph Instagram Examples
