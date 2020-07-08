@@ -54,7 +54,7 @@ How might one make use of the data in PhosGraph?
 
 Just like GNU projects started by cloning Unix, Phosway just needs to clone MAGAF. 
 
-　Explain costs later. First explain relations of phos modules and how do they clone magaf. 
+　Explain costs later. First explain relations of phos modules and how do they clone magaf. 2 aspects: 1. final aim is to clone MAGAF. 2. how to execute modules of Phosway in sequence?
 
 We already win, because of our zero costs and more efficient profit sharing scheme via PhosPay.
 
