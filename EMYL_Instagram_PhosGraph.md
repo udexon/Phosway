@@ -62,29 +62,31 @@ A to Z
 - A = Start from Online tipping (EMYL Instagram Social Networks).
 - Z = So main activity is clone MAGAF. 
 
-:: N4 explaining why CLONING ... not that bad ...
+:: N4 explaining why CLONING ... not that bad ... every section needs ONLY ONE EXPRESSIVE LEADING paragraph that reads natural to readers, to convey the contents of that section. The rest of the section are either subsections (list of paragraphs, not expressive), or expansion from the LEADING paragraph. The a complete article is made up of sections. A section is a list of expressive (leading) paragraph plus non-expressive paragraphs.
 
 Cloning MAGAF is not rocket science. There are enough free software programmers to do so. They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
 
-1. Phoscript Phoshell are done. One word at a time. Easy to teach. Helps EMYL?
+In other to present an overview of Phosway, we categorize the various modules of Phosway according to a model similar to the OSI layers, from low level to high level:
 
-2. Port existing code in other Programming Languages and frameworks to Phos. This is low level work. This explains more than 50% of Phosway plan.
+:: 1 2 3 4 are 4 different layers of OSI, from low to high.
+
+1. Phoscript Phoshell: these modules have been completed. One word at a time. Easy to teach. Helps EMYL?
+
+- Port existing code in other Programming Languages and frameworks to Phos. This is low level work. This explains more than 50% of Phosway plan.
 
 Helps individual project to train people, easier because of HUDAPI, incentivized by PhosPay
 
-3. PhosKey is a critical component in distributed cloud, blockchain etc. Used together with PhosGraph.
+2. PhosKey is a critical component in distributed cloud, blockchain etc. Used together with PhosGraph.
+
+3. PhosCloud = PhosKey + PhosGraph + PhosTunnel
 
 PhosCloud needs ssh tunnel shared vps. BitTorrent ++.
 
-PhosCloud = PhosKey + PhosGraph + PhosTunnel
+4. Phosway Applications: PhosPay PhosChat are critical for social networks PhosNet? . Forum comments, database are based on PhosGraph.
 
-4. PhosPay PhosChat are critical for social networks PhosNet? . Forum comments, database are based on PhosGraph.
+Just describe how Phosway components replicate list of MAGAF, Twitter etc. 
 
-Just describe how Phosway components replicate MAGAF, Twitter etc. 
-
-1 2 3 4 are 4 different layers of OSI, from low to high.
-
-5. Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2. 
+- Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2. 
 
 
 ### Stages of Development
@@ -107,35 +109,6 @@ https://github.com/udexon/PhosPay
 Tipping on any social network and EMYL coaching for Phosway.
 
 
-:: N4 label notes with numbers, so that can calculate how much more to correct
-
-How to connect paragraphs above and below?
-
-:: start of notes, end with double blank lines
-
-
-:: N4 List Phosway A to Z.
-
-A = EMYL Instagram tipping using PhosPay, EMYL includes Phosway PhosPay coaching.
-
-They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
-
-- Workplace discrimination is a cancer of the industrialized world. While some religions advocate altruism, the label of religion itself has more often than not become an excuse of discrimination.
-
-
-
-Through examples in literature and surviving practices from pre industrialized era, we derived a training scheme known as " Earn Money as You Learn" (EMYL), which we believe will be effective in fighting workplace discrimination.
-
-EMYL has one of its roots in the free software movement, which we recognize as having originated from Richard Stallman developing the GNU C Compiler and clones of Unix system tools.
-
-While some proponents and opponents of the free software movement have compared it to Communism, it has contributed to and become the essential foundation of the Internet and mobile networks, driving literally one of the most if not the most important industry in the world today, serving peoples, companies and governments worldwide.
-
-Yet as free software programmers continue to contribute selflessly to the common good of mankind, they are not fairly rewarded, as some of them get to be hired by MAGAF, while others continue to fight from the defensive end of workplace discrimination.
-
-Some readers might be wondering what the breakthroughs are that make EMYL possible. Some may even doubt if EMYL sounds too good to be true.
-
-Fortunately like everything else in free software, everything from concepts to code concerning EMYL are transparent, subject to scrutiny by anyone interested. 
-
 
 3. IG1 holds meet the fans parties
 
@@ -151,9 +124,11 @@ All paid using PhosPay.
 :: List to do until PhosPay is usable ….
 
 
-## D. Purpose of EMYL is to provide training
+## D. Benefits of Earn Money as You Learn to Free Software Revolution 2.0
 
-:: N5
+- Purpose of EMYL is to provide training
+
+:: N5 always start with leading paragraph. Only need one leading paragraph for each section. May spawn subsection if there are more leading paragraphs?
 
 Our purpose is to educate the next generation of free software programmers, Earn Money as You Learn. Goal is to make everyone earn as much as shareholders of MAGAF, by creating a fair platform for all developers and users to participate.
 
@@ -164,9 +139,6 @@ Scenarios and benefits using PhosPay.
 Emphasize Phoscript one word at a time!!!
 
 Most of the components needed for PhosPay already exist. We just need to copy them and make modifications.
-
-
-
 
 Paying top 1000 free software programmers USD1000 per week only needs USD 1 million. It is small  change for millionaires around the world. Just that no platform exist for such tipping.
 
@@ -179,6 +151,33 @@ PhosPay aims to overcome this bottleneck by enabling online micropayment, so tha
 As such, the software evaluation period becomes shorter. Typical start up projects take 3 months. PhosPay free software can be evaluated weekly. Hence improved transparency and productivity.
 
 
+
+:: N4 List Phosway A to Z.
+
+A = EMYL Instagram tipping using PhosPay, EMYL includes Phosway PhosPay coaching.
+
+They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
+
+- Workplace discrimination is a cancer of the industrialized world. While some religions advocate altruism, the label of religion itself has more often than not become an excuse of discrimination.
+
+Through examples in literature and surviving practices from pre industrialized era, we derived a training scheme known as " Earn Money as You Learn" (EMYL), which we believe will be effective in fighting workplace discrimination.
+
+EMYL has one of its roots in the free software movement, which we recognize as having originated from Richard Stallman developing the GNU C Compiler and clones of Unix system tools.
+
+While some proponents and opponents of the free software movement have compared it to Communism, it has contributed to and become the essential foundation of the Internet and mobile networks, driving literally one of the most if not the most important industry in the world today, serving peoples, companies and governments worldwide.
+
+Yet as free software programmers continue to contribute selflessly to the common good of mankind, they are not fairly rewarded, as some of them get to be hired by MAGAF, while others continue to fight from the defensive end of workplace discrimination.
+
+Some readers might be wondering what the breakthroughs are that make EMYL possible. Some may even doubt if EMYL sounds too good to be true.
+
+Fortunately like everything else in free software, everything from concepts to code concerning EMYL are transparent, subject to scrutiny by anyone interested. 
+
+
+:: label notes with numbers, so that can calculate how much more to correct
+
+How to connect paragraphs above and below?
+
+:: start of notes, end with double blank lines
 
 
 ## E. Investment needed for Phosway ... Search Engine or PhosKnow
