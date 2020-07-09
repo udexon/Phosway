@@ -180,6 +180,9 @@ They only need PhosPay so that their efforts can be directed, instead of Brownia
 
 ### EMYL Earn Money as You Learn
 
+- Apply PhosPay to students
+- Generalize EMYL to all industries, other fields of education, beyond computer programming
+
 Students are always the best source of labour -- subsidized by parents or state. They need to learn too. Hence EMYL is Win Win for trainers and trainee. Overcome age discrimination by enabling senior programmers teaching junior programmers.
 
 Through examples in literature and surviving practices from pre industrialized era, we derived a training scheme known as " Earn Money as You Learn" (EMYL), which we believe will be effective in fighting workplace discrimination.
