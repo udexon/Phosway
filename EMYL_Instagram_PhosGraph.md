@@ -150,7 +150,22 @@ We believe PhosPay will provide a fundamental solution to this problem.
 
 How?
 
-So many free software programmers, no pay. A few programmers in MAGAF, highly paid. Why? How to solve?
+Currently, most free software programmers contribute without receiving any monetary rewards. On the other hand, many programmers who are employed by various companies, large and small, specializing in software or other industries, receive various levels of salaries, while making use of free software. PhosPay offers a third mode of payment besides these two conventional models.
+
+PhosPay aims to overcome this bottleneck by enabling online micropayment, so that anyone can reward programmers a small amount on their contribution to free software, instead of relying on investors to invest large sums of money.
+
+As such, the software evaluation period becomes shorter. Typical start up projects take 3 months. PhosPay free software can be evaluated weekly. Hence improved transparency and productivity.
+
+Imagine this: paying the top 1000 free software programmers USD1000 per week only needs USD 1 million. This is small  change for millionaires around the world, not even tips for a drinking party. It did not happen just because no platform exists for such mode of tipping.
+
+EMYL vs. conventional start up funding
+
+- EMYL: weekly, one programmer, free time after work, cost = tipping amount. More free man power during COVID19 crisis.
+
+- Conventional start up: minimum 3 months, 5 people team, Investment?
+
+
+It doesn't matter how good a programmer is. Software development is labour intensive therefore capital intensive.
 
 Cloning MAGAF is not rocket science. There are enough free software programmers to do so. However, they move like random air particles. We need SEVERAL BREAKTHROUGH MECHANISMS to make these most talented individuals on Earth to become "self organized". Phosway is the name of this comprehensive suite of projects. (Click [here](https://github.com/udexon/Phosway/blob/master/README.md) for details.)
 
@@ -163,16 +178,6 @@ Scenarios and benefits using PhosPay.
 Emphasize Phoscript one word at a time!!!
 
 Most of the components needed for PhosPay already exist. We just need to copy them and make modifications.
-
-Paying top 1000 free software programmers USD1000 per week only needs USD 1 million. It is small  change for millionaires around the world. Just that no platform exist for such tipping.
-
-EMYL vs. conventional start up fundingEMYL: weekly, one programmer, free time after work, cost = tipping amount. More free man power during COVID19 crisis.Conventional start up: minimum 3 months, 5 people team, Investment?
-
-It doesn't matter how good a programmer is. Software development is labour intensive therefore capital intensive.
-
-PhosPay aims to overcome this bottleneck by enabling online micropayment, so that anyone can reward programmers a small amount on their contribution to free software, instead of relying on investors to invest large sums of money.
-
-As such, the software evaluation period becomes shorter. Typical start up projects take 3 months. PhosPay free software can be evaluated weekly. Hence improved transparency and productivity.
 
 
 
@@ -214,6 +219,8 @@ Like everything else in free software, we only need one Super Social Network!! b
 How to connect paragraphs above and below?
 
 :: start of notes, end with double blank lines
+
+So many free software programmers, no pay. A few programmers in MAGAF, highly paid. Why? How to solve?
 
 
 ## E. Investment needed for Phosway ... Search Engine or PhosKnow
