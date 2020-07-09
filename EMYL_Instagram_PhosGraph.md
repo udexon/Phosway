@@ -85,6 +85,8 @@ A to Z
 
 Cloning MAGAF is not rocket science. There are enough free software programmers to do so. They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
 
+Like everything else in free software, we only need one Super Social Network!! because all free software parts will merge together!! Except programming languages and frameworks, too fragmented, essentially different ways of doing same things, which is also now merged using Phoscript/Phoshell.
+
 :: 1 2 3 4 are 4 different layers of OSI, from low to high.
 
 
