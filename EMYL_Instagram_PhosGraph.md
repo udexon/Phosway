@@ -86,7 +86,7 @@ Just describe how Phosway components replicate MAGAF, Twitter etc. 
 
 5. Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2. 
 
-https://github.com/udexon/PhosPay
+
 
 Paying top 1000 free software programmers USD1000 per week only needs USD 1 million. It is small  change for millionaires around the world. Just that no platform exist for such tipping.
 
@@ -113,6 +113,8 @@ How to use them? Need a micropayment system PhosPay to monetize information in P
 
 
 2. User B tips IG1.
+
+https://github.com/udexon/PhosPay
 
 Tipping on any social network and EMYL coaching for Phosway.
 
