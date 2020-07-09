@@ -165,44 +165,41 @@ EMYL vs. conventional start up funding
 - Conventional start up: minimum 3 months, 5 people team, Investment?
 
 
-It doesn't matter how good a programmer is. Software development is labour intensive therefore capital intensive.
-
-Cloning MAGAF is not rocket science. There are enough free software programmers to do so. However, they move like random air particles. We need SEVERAL BREAKTHROUGH MECHANISMS to make these most talented individuals on Earth to become "self organized". Phosway is the name of this comprehensive suite of projects. (Click [here](https://github.com/udexon/Phosway/blob/master/README.md) for details.)
+### Scenarios and benefits using PhosPay.
 
 Our purpose is to educate the next generation of free software programmers, Earn Money as You Learn. Goal is to make everyone earn as much as shareholders of MAGAF, by creating a fair platform for all developers and users to participate.
 
-Discuss here or later? Differences?
+It doesn't matter how good a programmer is. Software development is labour intensive therefore capital intensive. PhosPay enables replication and directions with monetary incentives, more programmers are attracted if a certain project receives large sums of weekly online tippings. Without PhosPay, free software development stagnates as they are currently.
 
-Scenarios and benefits using PhosPay.
+Discuss here or later? Differences?
 
 Emphasize Phoscript one word at a time!!!
 
-Most of the components needed for PhosPay already exist. We just need to copy them and make modifications.
-
-
-
-:: N4 List Phosway A to Z.
-
-A = EMYL Instagram tipping using PhosPay, EMYL includes Phosway PhosPay coaching.
-
 They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
 
-- Workplace discrimination is a cancer of the industrialized world. While some religions advocate altruism, the label of religion itself has more often than not become an excuse of discrimination.
+
+### EMYL Earn Money as You Learn
+
+Students are always the best source of labour -- subsidized by parents or state. They need to learn too. Hence EMYL is Win Win for trainers and trainee. Overcome age discrimination by enabling senior programmers teaching junior programmers.
 
 Through examples in literature and surviving practices from pre industrialized era, we derived a training scheme known as " Earn Money as You Learn" (EMYL), which we believe will be effective in fighting workplace discrimination.
 
 EMYL has one of its roots in the free software movement, which we recognize as having originated from Richard Stallman developing the GNU C Compiler and clones of Unix system tools.
 
-While some proponents and opponents of the free software movement have compared it to Communism, it has contributed to and become the essential foundation of the Internet and mobile networks, driving literally one of the most if not the most important industry in the world today, serving peoples, companies and governments worldwide.
-
-Yet as free software programmers continue to contribute selflessly to the common good of mankind, they are not fairly rewarded, as some of them get to be hired by MAGAF, while others continue to fight from the defensive end of workplace discrimination.
-
 Some readers might be wondering what the breakthroughs are that make EMYL possible. Some may even doubt if EMYL sounds too good to be true.
 
 Fortunately like everything else in free software, everything from concepts to code concerning EMYL are transparent, subject to scrutiny by anyone interested. 
 
+While some proponents and opponents of the free software movement have compared it to Communism, it has contributed to and become the essential foundation of the Internet and mobile networks, driving literally one of the most if not the most important industry in the world today, serving peoples, companies and governments worldwide.
+
+
+### Phosway A to Z
 
 :: Explain EMYL first, then can explain zero costs, then cloning.
+
+:: N4 List Phosway A to Z.
+
+Most of the components needed for PhosPay already exist. We just need to copy them and make modifications.
 
 Just like GNU projects' major achievements lied in cloning Unix, Phosway may create great values to society just by  cloning MAGAF social networks.
 
@@ -212,6 +209,7 @@ Cloning MAGAF is not rocket science. There are enough free software programmers 
 
 Like everything else in free software, we only need one Super Social Network!! because all free software parts will merge together!! Except programming languages and frameworks, too fragmented, essentially different ways of doing same things, which is also now merged using Phoscript/Phoshell.
 
+Cloning MAGAF is not rocket science. There are enough free software programmers to do so. However, they move like random air particles. We need SEVERAL BREAKTHROUGH MECHANISMS to make these most talented individuals on Earth to become "self organized". Phosway is the name of this comprehensive suite of projects. (Click [here](https://github.com/udexon/Phosway/blob/master/README.md) for details.)
 
 
 :: label notes with numbers, so that can calculate how much more to correct
@@ -221,6 +219,13 @@ How to connect paragraphs above and below?
 :: start of notes, end with double blank lines
 
 So many free software programmers, no pay. A few programmers in MAGAF, highly paid. Why? How to solve?
+
+A = EMYL Instagram tipping using PhosPay, EMYL includes Phosway PhosPay coaching.
+
+- Workplace discrimination is a cancer of the industrialized world. While some religions advocate altruism, the label of religion itself has more often than not become an excuse of discrimination.
+
+
+Yet as free software programmers continue to contribute selflessly to the common good of mankind, they are not fairly rewarded, as some of them get to be hired by MAGAF, while others continue to fight from the defensive end of workplace discrimination.
 
 
 ## E. Investment needed for Phosway ... Search Engine or PhosKnow
