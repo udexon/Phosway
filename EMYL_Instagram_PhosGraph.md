@@ -42,7 +42,6 @@ The most important difference between graph database and conventional SQL databa
 
 We may still use them as and when needed.
 
-
 :: N3
 
 The core issue here is not whether theoretically a JSON data file is a graph database, as we could easily write a wrapper module to convert the JSON data into any format required by established graph database software. The core issue here is how to incorporate TKC into GDB ….  And train new free software programmers, and make them earn money as they learn ….
@@ -50,25 +49,7 @@ The core issue here is not whether theoretically a JSON data file is a graph dat
 
 ## C. Next Steps towards PhosPay
 
-How might one make use of the data in PhosGraph?
-
-Just like GNU projects started by cloning Unix, Phosway just needs to clone MAGAF. 
-
-　Explain costs later. First explain relations of phos modules and how do they clone magaf. 2 aspects: 1. final aim is to clone MAGAF. 2. how to execute modules of Phosway in sequence?
-
-We already win, because of our zero costs and more efficient profit sharing scheme via PhosPay.
-
-A to Z
-- A = Start from Online tipping (EMYL Instagram Social Networks).
-- Z = So main activity is clone MAGAF. 
-
-:: N4 explaining why CLONING ... not that bad ... every section needs ONLY ONE EXPRESSIVE LEADING paragraph that reads natural to readers, to convey the contents of that section. The rest of the section are either subsections (list of paragraphs, not expressive), or expansion from the LEADING paragraph. The a complete article is made up of sections. A section is a list of expressive (leading) paragraph plus non-expressive paragraphs.
-
-Cloning MAGAF is not rocket science. There are enough free software programmers to do so. They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
-
-In other to present an overview of Phosway, we categorize the various modules of Phosway according to a model similar to the OSI layers, from low level to high level:
-
-:: 1 2 3 4 are 4 different layers of OSI, from low to high.
+In order to present an overview of Phosway, we categorize the various modules of Phosway according to a model similar to the OSI layers, from low level to high level:
 
 1. Phoscript Phoshell: these modules have been completed. One word at a time. Easy to teach. Helps EMYL?
 
@@ -86,12 +67,30 @@ PhosCloud needs ssh tunnel shared vps. BitTorrent ++.
 
 Just describe how Phosway components replicate list of MAGAF, Twitter etc. 
 
-- Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2. 
+- Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2: Just use Phosway to clone MAGAF!!
+
+How might one make use of the data in PhosGraph?
+
+Just like GNU projects started by cloning Unix, Phosway just needs to clone MAGAF. 
+
+Explain costs later. First explain relations of phos modules and how do they clone magaf. 2 aspects: 1. final aim is to clone MAGAF. 2. how to execute modules of Phosway in sequence?
+
+We already win, because of our zero costs and more efficient profit sharing scheme via PhosPay.
+
+A to Z
+- A = Start from Online tipping (EMYL Instagram Social Networks).
+- Z = So main activity is clone MAGAF. 
+
+:: N4 explaining why CLONING ... not that bad ... every section needs ONLY ONE EXPRESSIVE LEADING paragraph that reads natural to readers, to convey the contents of that section. The rest of the section are either subsections (list of paragraphs, not expressive), or expansion from the LEADING paragraph. The a complete article is made up of sections. A section is a list of expressive (leading) paragraph plus non-expressive paragraphs.
+
+Cloning MAGAF is not rocket science. There are enough free software programmers to do so. They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
+
+:: 1 2 3 4 are 4 different layers of OSI, from low to high.
 
 
 ### Stages of Development
 
-The timelines of development of various Phosway modules are decribed below:
+Having understood the overall structure of Phosway, the timelines of development of various Phosway modules are decribed below:
 
 1. User A1 adds location information F1 for Instagrammer IG1.
 
