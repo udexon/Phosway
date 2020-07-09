@@ -76,13 +76,6 @@ Just describe how Phosway components replicate list of MAGAF, Twitter etc. 
 
 :: At end of list, need a new leading expressive paragraph.
 
-Just like GNU projects' major achievements lied in cloning Unix, Phosway may create great values to society just by  cloning MAGAF social networks.
-
-We already win, because of our zero costs and more efficient profit sharing scheme via PhosPay.
-
-Cloning MAGAF is not rocket science. There are enough free software programmers to do so. They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
-
-Like everything else in free software, we only need one Super Social Network!! because all free software parts will merge together!! Except programming languages and frameworks, too fragmented, essentially different ways of doing same things, which is also now merged using Phoscript/Phoshell.
 
 
 :: N4 explaining why CLONING ... not that bad ... every section needs ONLY ONE EXPRESSIVE LEADING paragraph that reads natural to readers, to convey the contents of that section. The rest of the section are either subsections (list of paragraphs, not expressive), or expansion from the LEADING paragraph. The a complete article is made up of sections. A section is a list of expressive (leading) paragraph plus non-expressive paragraphs.
@@ -145,6 +138,12 @@ All paid using PhosPay.
 
 :: N5 always start with leading paragraph. Only need one leading paragraph for each section. May spawn subsection if there are more leading paragraphs?
 
+:: Start with shortcomings of free software development without PhosPay, no directions.
+
+So many free software programmers, no pay. A few programmers in MAGAF, highly paid. Why? How to solve?
+
+Cloning MAGAF is not rocket science. There are enough free software programmers to do so. However, they move like random air particles. We need SEVERAL BREAKTHROUGH MECHANISMS to make these most talented individuals on Earth to become "self organized". Phosway is the name of this comprehensive suite of projects. (Click [here](https://github.com/udexon/Phosway/blob/master/README.md) for details.)
+
 Our purpose is to educate the next generation of free software programmers, Earn Money as You Learn. Goal is to make everyone earn as much as shareholders of MAGAF, by creating a fair platform for all developers and users to participate.
 
 Discuss here or later? Differences?
@@ -186,6 +185,18 @@ Yet as free software programmers continue to contribute selflessly to the common
 Some readers might be wondering what the breakthroughs are that make EMYL possible. Some may even doubt if EMYL sounds too good to be true.
 
 Fortunately like everything else in free software, everything from concepts to code concerning EMYL are transparent, subject to scrutiny by anyone interested. 
+
+
+:: Explain EMYL first, then can explain zero costs, then cloning.
+
+Just like GNU projects' major achievements lied in cloning Unix, Phosway may create great values to society just by  cloning MAGAF social networks.
+
+We already win, because of our zero costs and more efficient profit sharing scheme via PhosPay.
+
+Cloning MAGAF is not rocket science. There are enough free software programmers to do so. They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
+
+Like everything else in free software, we only need one Super Social Network!! because all free software parts will merge together!! Except programming languages and frameworks, too fragmented, essentially different ways of doing same things, which is also now merged using Phoscript/Phoshell.
+
 
 
 :: label notes with numbers, so that can calculate how much more to correct
