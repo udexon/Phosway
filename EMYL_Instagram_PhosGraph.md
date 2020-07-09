@@ -91,6 +91,8 @@ Just describe how Phosway components replicate list of MAGAF, Twitter etc. 
 
 ### Stages of Development
 
+The timelines of development of various Phosway modules are decribed below:
+
 1. User A1 adds location information F1 for Instagrammer IG1.
 
 Any user AX can update any information FX about Instagrammer IGX.
@@ -108,6 +110,7 @@ https://github.com/udexon/PhosPay
 
 Tipping on any social network and EMYL coaching for Phosway.
 
+:: List to do until PhosPay is usable …. This is the MOST IMPORTANT SECTION OF THE WHOLE ARTICLE!!!
 
 
 3. IG1 holds meet the fans parties
@@ -121,7 +124,7 @@ Other talents like video editing etc. are needed.
 
 All paid using PhosPay.
 
-:: List to do until PhosPay is usable ….
+
 
 
 ## D. Benefits of Earn Money as You Learn to Free Software Revolution 2.0
