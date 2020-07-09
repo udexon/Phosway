@@ -47,7 +47,7 @@ We may still use them as and when needed.
 The core issue here is not whether theoretically a JSON data file is a graph database, as we could easily write a wrapper module to convert the JSON data into any format required by established graph database software. The core issue here is how to incorporate TKC into GDB ….  And train new free software programmers, and make them earn money as they learn ….
 
 
-## C. Next Steps towards PhosPay
+## C. Structure of Phosway
 
 In order to present an overview of Phosway, we categorize the various modules of Phosway according to a model similar to the OSI layers, from low level to high level:
 
