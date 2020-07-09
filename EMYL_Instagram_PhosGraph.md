@@ -140,6 +140,16 @@ All paid using PhosPay.
 
 :: Start with shortcomings of free software development without PhosPay, no directions.
 
+Consider this question:
+
+- Are contributors to free software fairly rewarded?
+
+Although it may be time consuming and labourious to conduct a comprehensive survey to answer this question, we can easily find many free software contributors who receive no moentary rewards, while there are plenty highly paid programmers within MAGAF who in turn make use of various types of free software.
+
+We believe PhosPay will provide a fundamental solution to this problem.
+
+How?
+
 So many free software programmers, no pay. A few programmers in MAGAF, highly paid. Why? How to solve?
 
 Cloning MAGAF is not rocket science. There are enough free software programmers to do so. However, they move like random air particles. We need SEVERAL BREAKTHROUGH MECHANISMS to make these most talented individuals on Earth to become "self organized". Phosway is the name of this comprehensive suite of projects. (Click [here](https://github.com/udexon/Phosway/blob/master/README.md) for details.)
