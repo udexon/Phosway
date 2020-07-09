@@ -136,10 +136,6 @@ All paid using PhosPay.
 
 - Purpose of EMYL is to provide training
 
-:: N5 always start with leading paragraph. Only need one leading paragraph for each section. May spawn subsection if there are more leading paragraphs?
-
-:: Start with shortcomings of free software development without PhosPay, no directions.
-
 Consider this question:
 
 - Are contributors to free software fairly rewarded?
