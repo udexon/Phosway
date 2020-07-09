@@ -87,7 +87,7 @@ Just describe how Phosway components replicate MAGAF, Twitter etc. 
 5. Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2. 
 
 
-
+### Stages of Development
 
 1. User A1 adds location information F1 for Instagrammer IG1.
 
