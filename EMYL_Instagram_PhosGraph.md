@@ -57,11 +57,15 @@ In order to present an overview of Phosway, we categorize the various modules of
 
 Helps individual project to train people, easier because of HUDAPI, incentivized by PhosPay
 
-2. PhosKey is a critical component in distributed cloud, blockchain etc. Used together with PhosGraph.
+2. PhosKey, PhosGraph, PhosTunnel: critical components in distributed cloud, blockchain etc. Used together with PhosGraph.
+
+How might one make use of the data in PhosGraph?
+
 
 3. PhosCloud = PhosKey + PhosGraph + PhosTunnel
 
 PhosCloud needs ssh tunnel shared vps. BitTorrent ++.
+
 
 4. Phosway Applications: PhosPay PhosChat are critical for social networks PhosNet? . Forum comments, database are based on PhosGraph.
 
@@ -69,25 +73,32 @@ Just describe how Phosway components replicate list of MAGAF, Twitter etc. 
 
 - Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2: Just use Phosway to clone MAGAF!!
 
-How might one make use of the data in PhosGraph?
 
-Just like GNU projects started by cloning Unix, Phosway just needs to clone MAGAF. 
+:: At end of list, need a new leading expressive paragraph.
 
-Explain costs later. First explain relations of phos modules and how do they clone magaf. 2 aspects: 1. final aim is to clone MAGAF. 2. how to execute modules of Phosway in sequence?
+Just like GNU projects' major achievements lied in cloning Unix, Phosway may create great values to society just by  cloning MAGAF social networks.
 
 We already win, because of our zero costs and more efficient profit sharing scheme via PhosPay.
-
-A to Z
-- A = Start from Online tipping (EMYL Instagram Social Networks).
-- Z = So main activity is clone MAGAF. 
-
-:: N4 explaining why CLONING ... not that bad ... every section needs ONLY ONE EXPRESSIVE LEADING paragraph that reads natural to readers, to convey the contents of that section. The rest of the section are either subsections (list of paragraphs, not expressive), or expansion from the LEADING paragraph. The a complete article is made up of sections. A section is a list of expressive (leading) paragraph plus non-expressive paragraphs.
 
 Cloning MAGAF is not rocket science. There are enough free software programmers to do so. They only need PhosPay so that their efforts can be directed, instead of Brownian random direction at the moment.
 
 Like everything else in free software, we only need one Super Social Network!! because all free software parts will merge together!! Except programming languages and frameworks, too fragmented, essentially different ways of doing same things, which is also now merged using Phoscript/Phoshell.
 
+
+:: N4 explaining why CLONING ... not that bad ... every section needs ONLY ONE EXPRESSIVE LEADING paragraph that reads natural to readers, to convey the contents of that section. The rest of the section are either subsections (list of paragraphs, not expressive), or expansion from the LEADING paragraph. The a complete article is made up of sections. A section is a list of expressive (leading) paragraph plus non-expressive paragraphs.
+
 :: 1 2 3 4 are 4 different layers of OSI, from low to high.
+
+Explain costs later. First explain relations of phos modules and how do they clone magaf. 
+
+A to Z
+- A = Start from Online tipping (EMYL Instagram Social Networks).
+- Z = So main activity is clone MAGAF. 
+
+2 aspects: 
+1. final aim is to clone MAGAF. 
+2. how to execute modules of Phosway in sequence?
+
 
 
 ### Stages of Development
