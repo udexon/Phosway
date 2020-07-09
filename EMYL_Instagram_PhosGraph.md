@@ -86,9 +86,20 @@ Just describe how Phosway components replicate MAGAF, Twitter etc. 
 
 5. Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2. 
 
-
-
 https://github.com/udexon/PhosPay
+
+Paying top 1000 free software programmers USD1000 per week only needs USD 1 million. It is small  change for millionaires around the world. Just that no platform exist for such tipping.
+
+EMYL vs. conventional start up fundingEMYL: weekly, one programmer, free time after work, cost = tipping amount. More free man power during COVID19 crisis.Conventional start up: minimum 3 months, 5 people team, Investment?
+
+It doesn't matter how good a programmer is. Software development is labour intensive therefore capital intensive.
+
+PhosPay aims to overcome this bottleneck by enabling online micropayment, so that anyone can reward programmers a small amount on their contribution to free software, instead of relying on investors to invest large sums of money.
+
+As such, the software evaluation period becomes shorter. Typical start up projects take 3 months. PhosPay free software can be evaluated weekly. Hence improved transparency and productivity.
+
+
+
 
 1. User A1 adds location information F1 for Instagrammer IG1.
 
