@@ -63,7 +63,7 @@ Let us compare the roles of programming langauges in other project in order to h
 
 https://github.com/udexon/Phoshell/blob/master/PhosIDE_Part_III.md
 
-Jitsi Meet is a well established and popular open source video conferencing app. Video conferencing apps have gained unexpected popularity recently as the COVID19 pandemic looms. 
+Jitsi Meet is a well established and popular open source video conferencing app. Video conferencing apps have gained unexpected popularity recently as the COVID19 pandemic looms. Jitsi Meet uses the React Redux framework and has source code for web client, Android and iOS apps respectively.
 
 Difficulties in training developers due to unfamiliarity with new programming language and framework, e.g. Jitsi Meet.
 
