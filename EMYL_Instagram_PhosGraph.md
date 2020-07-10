@@ -57,6 +57,17 @@ Phoscript is a Reverse Polish Notation, stack machine programming language, deri
 
 Phoshell is a stack machine shell employing Phoscript, implementable in ANY known programming language and framework.
 
+Let us compare the roles of programming langauges in other project in order to highlight the significance of Phoscript.
+
+Add link to Jitsi Meet Phoom, rename as PhosVR?
+
+https://github.com/udexon/Phoshell/blob/master/PhosIDE_Part_III.md
+
+Difficulties in training developers due to unfamiliarity with new programming language and framework, e.g. Jitsi Meet.
+
+
+
+
 Roles of programming langauges in other project:
 
 a. projects with one programming language
