@@ -51,7 +51,21 @@ The core issue here is not whether theoretically a JSON data file is a graph dat
 
 In order to present an overview of Phosway, we categorize the various modules of Phosway according to a model similar to the OSI layers, from low level to high level:
 
-1. Phoscript Phoshell: these modules have been completed. One word at a time. Easy to teach. Helps EMYL?
+1. Phoscript / Phoshell
+
+Phoscript is a Reverse Polish Notation, stack machine programming language, derived from the Forth programming language.
+
+Phoshell is a stack machine shell employing Phoscript, implementable in ANY known programming language and framework.
+
+Roles of programming langauges in other project:
+
+a. projects with one programming language
+
+b. projects with multiple programming languages
+
+compare with Phosway.
+
+these modules have been completed. One word at a time. Easy to teach. Helps EMYL?
 
 - Port existing code in other Programming Languages and frameworks to Phos. This is low level work. This explains more than 50% of Phosway plan.
 
