@@ -100,12 +100,9 @@ SSH tunnel can be activated at VPS (virtual private servers) which cost around U
 
 PhosCloud could be seen as an enhanced version of BitTorrent, where its functionalities are no restricted to only file transfer, but the whole of conventional cloud computing, except that this time, the infrastructure is literally and physically owned by individuals.
 
-3. PhosApps: Phosway Applications: PhosPay PhosChat are critical for social networks? Forum comments, database are based on PhosGraph.
+<!-- 
 
-Just describe how Phosway components replicate list of MAGAF, Twitter etc. 
-
-- Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2: Just use Phosway to clone MAGAF!!
-
+:: Merge PhosApps into next section -- stages of development
 
 :: At end of list, need a new leading expressive paragraph.
 
@@ -129,9 +126,17 @@ A to Z
 1. final aim is to clone MAGAF. 
 2. how to execute modules of Phosway in sequence?
 
-
+-->
 
 ### Stages of Development
+
+
+3. PhosApps: Phosway Applications: PhosPay PhosChat are critical for social networks? Forum comments, database are based on PhosGraph.
+
+Just describe how Phosway components replicate list of MAGAF, Twitter etc. 
+
+- Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2: Just use Phosway to clone MAGAF!!
+
 
 Having understood the overall structure of Phosway, the timelines of development of various Phosway modules are decribed below:
 
