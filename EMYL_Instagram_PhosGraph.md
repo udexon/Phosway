@@ -57,9 +57,7 @@ Phoscript is a Reverse Polish Notation, stack machine programming language, deri
 
 Phoshell is a stack machine shell employing Phoscript, implementable in ANY known programming language and framework.
 
-Let us compare the roles of programming langauges in other project in order to highlight the significance of Phoscript:
-
-:: Add link to Jitsi Meet Phoom, rename as PhosVR?
+Let us compare the roles of programming langauges in other project in order to highlight the significance of Phoscript by look at the following project:
 
 https://github.com/udexon/Phoshell/blob/master/PhosIDE_Part_III.md
 
@@ -119,9 +117,16 @@ Port existing code in other Programming Languages and frameworks to Phos. This i
 
 Helps individual project to train people, easier because of HUDAPI, incentivized by PhosPay
 
+these modules have been completed. One word at a time. Easy to teach. Helps EMYL?
+
+- Port existing code in other Programming Languages and frameworks to Phos. This is low level work. This explains more than 50% of Phosway plan.
+
+Helps individual project to train people, easier because of HUDAPI, incentivized by PhosPay
+
+
+
 :: Just use Jitsi Meet as example. 
-
-
+:: Add link to Jitsi Meet Phoom, rename as PhosVR?
 ::
 
 Roles of programming langauges in other project:
@@ -132,11 +137,6 @@ b. projects with multiple programming languages
 
 compare with Phosway.
 
-these modules have been completed. One word at a time. Easy to teach. Helps EMYL?
-
-- Port existing code in other Programming Languages and frameworks to Phos. This is low level work. This explains more than 50% of Phosway plan.
-
-Helps individual project to train people, easier because of HUDAPI, incentivized by PhosPay
 
 2. PhosKey, PhosGraph, PhosTunnel: critical components in distributed cloud, blockchain etc. Used together with PhosGraph.
 
