@@ -1,3 +1,5 @@
+# PhosGraph Instagram Example
+
 We use a mixture of manual control and Python Selenium script, to extract data from Instagram pages, and save them to the PhosGraph database, as illustrated with the series of screenshots below.
 
 After login to Instagram using a web browser, we navigate to a typical user page like the following, with screenshot as shown in figure 1:
@@ -36,7 +38,7 @@ After saving the json data to PhosGraph database, we may navigate back to figure
 - Figure 6
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/basskitten.png" width=600>
 
-By clicking on "following" at the second row of texts from the top, it opens the "PEOPLE / HASTAGS" floating window as show in figure 7. By clicking "HASHTAG", all the hashtags followed by the current user will be displayed.
+By clicking on "following" at the second row of texts from the top, it opens the "PEOPLE / HASHTAGS" floating window as show in figure 7. By clicking "HASHTAG", all the hashtags followed by the current user will be displayed.
 
 - Figure 7
 <img src="https://github.com/udexon/Phosway/blob/master/Instagram/hashtags.png" width=600>
