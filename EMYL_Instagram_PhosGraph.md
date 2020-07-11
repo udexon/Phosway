@@ -36,16 +36,17 @@ Graph database: a database whose structure is represented as a graph, by definit
 
 - Question: Why are we using space delimited text files as database in the age of so many "proper" graph database software?
 
-Answer: the conventional graph database software have too many outdated assumptions which may hinder Phosway.
+Answer: the conventional graph database software may have too many outdated assumptions which may hinder Phosway.
 
 The most important difference between graph database and conventional SQL database is often muddled by other technical issues: the key of an object, equivalent to the field or column in SQL database, can be defined on the fly. This feature makes a text file of JSON data a graph database, more flexible than any multi gigabytes SQL installation. This conclusion however may be too embarrassing for DB admins, hence perhaps intentionally subdued over the years.
 
+The core issue here is not whether theoretically a JSON data file is a graph database, as we could easily write a wrapper module to convert the JSON data into any format required by established graph database software. 
+
+<!--
+The core issue here is how to incorporate TKC into GDB ….  And train new free software programmers, and make them earn money as they learn ….
 We may still use them as and when needed.
-
 :: N3
-
-The core issue here is not whether theoretically a JSON data file is a graph database, as we could easily write a wrapper module to convert the JSON data into any format required by established graph database software. The core issue here is how to incorporate TKC into GDB ….  And train new free software programmers, and make them earn money as they learn ….
-
+-->
 
 ## C. Structure of Phosway
 
@@ -244,7 +245,7 @@ Cloning MAGAF is not rocket science. There are enough free software programmers 
 
 
 
-
+<!--
 ## E. Investment needed for Phosway ... Search Engine or PhosKnow
 
 :: N6
@@ -259,12 +260,11 @@ PhosEngine or PhosKnow are more complicated to grasp for users … ??
 
 Analyze the benefits of one particular aspect, e.g. PhosKnow, compared to other aspects, to give readers a comprehensive picture.
 
-
 Workplace discrimination means plenty of work force for Phosway at all ages, anywhere in the world.
 
 What can PhosGraph PhosKnow achieve?
 
 A super social network owned by everyone and rewards everyone fairly. Has built in mechanism for fairness via competition.
-
+-->
 
 
