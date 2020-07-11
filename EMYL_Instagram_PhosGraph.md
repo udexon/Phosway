@@ -71,7 +71,9 @@ Phoshell is not just a user interface, i.e. how users use a program. It is also 
 
 Phoshell have integrated the functionalities of shell (to access high level commands), interpreters (to access low level functions) as well as GUI (Phoshell is integrated into GUI of any app). Through networks, Phoshell can extend function libraries live on the fly, just like JavaScript front end. 
 
-Super app: JavaScript can update function libraries, but too cumbersome to reprogram on the fly. Phoshell is another layer needed on web and mobile to enable extensible libraries and live reprogramming. 
+## "Superapp" 
+
+Although JavaScript can update function libraries on the fly via networks, but the programming language itself is too cumbersome to be used on the fly, via GUI. Phoshell is another layer added on top of web and mobile apps to enable extensible libraries (live loading) and live reprogramming. 
 
 So just need to port code from other games apps to Phoshell. This is tutorial job. No need to be innovative yet. Some people can focus on leading edge innovations. But all can benefits from EMYL, both trainers and trainees.
 
