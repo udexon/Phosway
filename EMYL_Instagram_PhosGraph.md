@@ -136,18 +136,24 @@ Having understood the overall structure of Phosway, the timelines of development
 
 1. Extending PhosGraph
 
-User A1 adds location information F1 for Instagrammer IG1.
+Database is perhaps the foundation to all applications. As such, PhosGraph, a graph database for Phosway, is the foundation to all Phosway applications.
+
+The following could be the simplest and yet illustrative operation that can be performed on PhosGraph:
+
+- User A1 adds location information F1 for Instagrammer IG1.
 
 Any user AX can update any information FX about Instagrammer IGX.
 
-PhosGraph becomes a collective database of personal information for any Instagrammer.
+PhosGraph thus becomes a collective database of personal information for any Instagrammer, or in fact, any user on any social network. PhosGraph will essentially be the super database for everyone on the Internet.
 
 By law of slow change of popularity, a famous person will stay famous over a certain period of time. A less famous person may become more famous. As such, their personal information will become valuable.
 
-How to use them? Need a micropayment system PhosPay to monetize information in PhosGraph, just like how MAGAF make money, but more transparent, open, small amounts.
+How can we make use of such information? Enter PhosPay: a micropayment system PhosPay to monetize information in PhosGraph, just like how MAGAF make money, but more transparent, open, in small amounts.
 
 
-2. User B tips IG1.
+2. PhosPay
+
+- User B tips IG1 using PhosPay.
 
 https://github.com/udexon/PhosPay
 
