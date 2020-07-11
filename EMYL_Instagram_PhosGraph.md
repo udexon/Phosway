@@ -157,16 +157,13 @@ How can we make use of such information? Enter PhosPay: a micropayment system Ph
 
 https://github.com/udexon/PhosPay
 
-Tipping on any social network and EMYL coaching for Phosway.
+PhosPay is perhaps the most critical and beneficial of all PhosApps modules, as it is THE BOOTSTRAP module which can generate monetary rewards, required to incentivize continuous development of all other PhosApps components. Its mechanisms and benefits will be described in details in the next section.
 
-:: List to do until PhosPay is usable …. This is the MOST IMPORTANT SECTION OF THE WHOLE ARTICLE!!!
+Online tipping for social media celebrities has proven to be a huge success in China as she led the way with many huge, although monolithic online micropayment solutions, such as AliPay and WeChat pay.
 
-PhosPay PhosChat are critical for social networks? Forum comments, database are based on PhosGraph.
+Based on PhosKey, a transient key cryptographic solution, PhosPay will be able to provide a solution for online micropayment outside China, integrating all existing platforms seamlessly.
 
-Just describe how Phosway components replicate list of MAGAF, Twitter etc. 
-
-- Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2: Just use Phosway to clone MAGAF!!
-
+As part of the functionallities of PhosPay, PhosChat is a transient key cryptographic messaging system, which is critical for building social networks.
 
 
 3. IG1 holds meet the fans parties
@@ -181,6 +178,13 @@ Other talents like video editing etc. are needed.
 All paid using PhosPay.
 
 
+<!--
+Just describe how Phosway components replicate list of MAGAF, Twitter etc. 
+- Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2: Just use Phosway to clone MAGAF!!
+Tipping on any social network and EMYL coaching for Phosway.
+:: List to do until PhosPay is usable …. This is the MOST IMPORTANT SECTION OF THE WHOLE ARTICLE!!!
+? Forum comments, database are based on PhosGraph.
+-->
 
 
 ## D. Benefits of Earn Money as You Learn to Free Software Revolution 2.0
