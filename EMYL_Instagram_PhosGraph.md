@@ -15,7 +15,7 @@ Let us illustrate the philosophy and benefits of "Earn Money as You Learn" (EMYL
 
 - The number of followers of an Instagram user is extracted and saved on a publicly accessible web server, PhosGraph.
 - Anyone may be able to query the PhosGraph server, as well as contribute code to enhance its functionalities.
-- Donors may tip an Instagram celebrity or pay contributors of PhosGraph using PhosPay, a novel ID-less online payment system system based on transient key cryptography.
+- Donors may tip an Instagram celebrity or pay contributors of PhosGraph using [PhosPay](https://github.com/udexon/PhosPay), a novel ID-less online payment system system based on transient key cryptography.
 - https://github.com/udexon/Phosway/blob/master/PhosGraph_Instagram.md
 
 The example given in the link above seems completely counterintuitive compared to the "mainstream" web programming solutions in recent years. i.e. One expects to see a node.js or yarn project with a beautiful front end and a sophisticated back end which consume no less than 500MB or disk space.
