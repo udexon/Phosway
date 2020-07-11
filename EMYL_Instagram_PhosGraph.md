@@ -140,7 +140,7 @@ As readers would have noticed, Phos is a rather versatile prefix, originated fro
 
 Having understood the overall structure of Phosway, the timelines of development of various Phosway modules are decribed below:
 
-i. Extending PhosGraph
+#### i. Extending PhosGraph
 
 Database is perhaps the foundation to all applications. As such, PhosGraph, a graph database for Phosway, is the foundation to all Phosway applications.
 
@@ -157,7 +157,7 @@ By law of slow change of popularity, a famous person will stay famous over a cer
 How can we make use of such information? Enter PhosPay: a micropayment system PhosPay to monetize information in PhosGraph, just like how MAGAF make money, but more transparent, open, in small amounts.
 
 
-ii. PhosPay
+#### ii. PhosPay
 
 - User B tips IG1 using PhosPay.
 
@@ -217,27 +217,31 @@ As such, the software evaluation period becomes shorter. Typical start up projec
 
 Imagine this: paying the top 1000 free software programmers USD1000 per week only needs USD 1 million. This is small  change for millionaires around the world, not even tips for a drinking party. It did not happen just because no platform exists for such mode of tipping.
 
+If we define transparency of software investment life cycle as the minimum period an investor may review the development, we will then have the following:
+
+- Conventional start up: minimum 3 months, 5 people team.
+- EMYL: weekly, one programmer; Programmers use free time after work; cost = tipping amount; More free man power after COVID19 crisis.
+
+EMYL preserves the transparency of free software development while introducing a novel reward mechanism for all free software programmers. It is also more beneficial compared to conventional start-up investment model, as investors can review the progress more frequently, with a smaller amount of investments.
+
+<!--
+Investment
 EMYL vs. conventional start up funding
-
-- EMYL: weekly, one programmer, free time after work, cost = tipping amount. More free man power during COVID19 crisis.
-
-- Conventional start up: minimum 3 months, 5 people team, Investment?
+-->
 
 
-### Scenarios and benefits using PhosPay.
+### Scenarios and benefits using PhosPay EMYL 
 
-### EMYL Earn Money as You Learn
-
+<!--
 - Apply PhosPay to students
 - Generalize EMYL to all industries, other fields of education, beyond computer programming
+Through examples in literature and surviving practices from pre industrialized era, we derived a training scheme known as " Earn Money as You Learn" (EMYL), which we believe will be effective in ...
+... fighting workplace discrimination.
+Our purpose is to educate the next generation of free software programmers, Earn Money as You Learn. Goal is to make everyone earn as much as shareholders of MAGAF, by creating a fair platform for all developers and users to participate.
+-->
 
 Students are always the best source of labour as far as free software is concerned, as they are subsidized by parents or state. In fact, although there has been a lack of comprehensive surveys on the effects of free software on the education of students, some random samples would affirm the huge benefits.
 
-Through examples in literature and surviving practices from pre industrialized era, we derived a training scheme known as " Earn Money as You Learn" (EMYL), which we believe will be effective in ...
-
-... fighting workplace discrimination.
-
-Our purpose is to educate the next generation of free software programmers, Earn Money as You Learn. Goal is to make everyone earn as much as shareholders of MAGAF, by creating a fair platform for all developers and users to participate.
 
 It doesn't matter how good a programmer is. Software development is labour intensive therefore capital intensive. PhosPay enables replication and directions with monetary incentives, more programmers are attracted if a certain project receives large sums of weekly online tippings. Without PhosPay, free software development stagnates as they are currently.
 
