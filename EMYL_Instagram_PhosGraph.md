@@ -11,28 +11,29 @@ Cloning MAGAF is not rocket science. There are enough free software programmers 
 
 ## B. PhosGraph Instagram Examples
 
-Let us illustrate the philosophy and benefits of EMYL using the following example:
+Let us illustrate the philosophy and benefits of "Earn Money as You Learn" (EMYL) using the following example:
 
-The number of followers of an Instagram user is extracted and saved on a publicly accessible web server, PhosGraph.
-Anyone may be able to query the PhosGraph server, as well as contribute code to enhance its functionalities.
-Donors may pay contributors of PhosGraph using PhosPay, a novel ID-less online payment system system based on transient key cryptography.
-
-https://github.com/udexon/Phosway/blob/master/PhosGraph_Instagram.md
+- The number of followers of an Instagram user is extracted and saved on a publicly accessible web server, PhosGraph.
+- Anyone may be able to query the PhosGraph server, as well as contribute code to enhance its functionalities.
+- Donors may tip an Instagram celebrity or pay contributors of PhosGraph using PhosPay, a novel ID-less online payment system system based on transient key cryptography.
+- https://github.com/udexon/Phosway/blob/master/PhosGraph_Instagram.md
 
 The example given in the link above seems completely counterintuitive compared to the "mainstream" web programming solutions in recent years. i.e. One expects to see a node.js or yarn project with a beautiful front end and a sophisticated back end which consume no less than 500MB or disk space.
 
 There are 2 primary reasons for this:
 
-To demonstrate the features of  transient key cryptography graph database
-Zero investment bootstrap
+1. To demonstrate the features of  transient key cryptography graph database
+2. Zero investment bootstrap
 
 Transient key cryptography has gained some exposure indirectly in recent years due to the popularity of blockchain technologies. However, due to the lack of easy to use tools and easy to understand theories and use cases, TKC and blockchain technologies have remained as niche areas accessible to several small circles of elite cryptographers and programmers. 
 
 While the definitions of transient key cryptography and graph database given in the literature may be over complicated for most readers, we shall attempt to present a simplified version:
 
-Transient key cryptography: algorithms based on asymmetric cryptography where the key pairs generated for a user, device or process (owner) change over a short period of time.
+- Transient key cryptography: algorithms based on asymmetric cryptography where the key pairs generated for a user, device or process (owner) change over a short period of time.
 
-Graph database: a database whose structure is represented as a graph, by definition, made up of vertices (nodes) and edges.
+- Graph database: a database whose structure is represented as a graph, by definition, made up of vertices (nodes) and edges.
+
+Consider the following question:
 
 - Question: Why are we using space delimited text files as database in the age of so many "proper" graph database software?
 
@@ -83,7 +84,11 @@ While Phoshell provides a "superapp" platform to merge all apps and games into o
 By adding Facebook functionalities to Jitsi Meet using Phoshell, we may create "universal social media app", Phosbook, for the sake of argument. We may add Reddit upvotes and karma functions to Phosbook. These are no longer unrealistic goals as Phoshell greatly simplifies the development work, via the PhosPay EMYL (Earn Money as You Learn) training framework outlined later in this article.
 
 
-2. PhosKey, PhosGraph, PhosTunnel: critical components in distributed cloud, blockchain etc. 
+2. PhosCloud = PhosKey + PhosGraph + PhosTunnel
+
+<!--
+PhosKey, PhosGraph, PhosTunnel: critical components in distributed cloud, blockchain etc. 
+-->
 
 As we have outlined in the previous section, Phoshell is a universal interface for porting various existing function libraries and apps. Here we briefly outline 3 modules that enable us to create a new type of cloud computing platform: PhosCloud.
 
@@ -96,8 +101,6 @@ Starting with this breakthrough, we may then redesign almost all cloud computing
 Besides PhosKey and PhosGraph (outlined earlier), we need another essential element to complete our new cloud computing platform: SSH tunnel.
 
 SSH tunnel can be activated at VPS (virtual private servers) which cost around USD10 per month (MYR30). We believe the BitTorrent network is a variation of SSH tunnel. By using SSH tunnel (PhosTunnel), we enable a large number of mobile devices and home computers to be accessible as PhosCloud nodes.
-
-- PhosCloud = PhosKey + PhosGraph + PhosTunnel
 
 PhosCloud could be seen as an enhanced version of BitTorrent, where its functionalities are no restricted to only file transfer, but the whole of conventional cloud computing, except that this time, the infrastructure is literally and physically owned by individuals.
 
@@ -129,13 +132,15 @@ A to Z
 
 -->
 
-### PhosApps: Stages of Development
+3. PhosApps: Phosway Applications
+
+<!-- Stages of Development -->
 
 As readers would have noticed, Phos is a rather versatile prefix, originated from the Greek word for "light", which also rhymes with Forth, the original inspiration for this project. As such, we may term all Phosway Applications as PhosApps.
 
 Having understood the overall structure of Phosway, the timelines of development of various Phosway modules are decribed below:
 
-1. Extending PhosGraph
+i. Extending PhosGraph
 
 Database is perhaps the foundation to all applications. As such, PhosGraph, a graph database for Phosway, is the foundation to all Phosway applications.
 
@@ -152,7 +157,7 @@ By law of slow change of popularity, a famous person will stay famous over a cer
 How can we make use of such information? Enter PhosPay: a micropayment system PhosPay to monetize information in PhosGraph, just like how MAGAF make money, but more transparent, open, in small amounts.
 
 
-2. PhosPay
+ii. PhosPay
 
 - User B tips IG1 using PhosPay.
 
@@ -167,6 +172,7 @@ Based on PhosKey, a transient key cryptographic solution, PhosPay will be able t
 As part of the functionallities of PhosPay, PhosChat is a transient key cryptographic messaging system, which is critical for building social networks.
 
 
+<!--
 3. IG1 holds meet the fans parties
 
 PhosChat anonymous chat between fans and celebrities, very important, huge demand, captive market. Fraud from hacking dating websites.
@@ -179,7 +185,6 @@ Other talents like video editing etc. are needed.
 All paid using PhosPay.
 
 
-<!--
 Just describe how Phosway components replicate list of MAGAF, Twitter etc. 
 - Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2: Just use Phosway to clone MAGAF!!
 Tipping on any social network and EMYL coaching for Phosway.
@@ -190,7 +195,9 @@ Tipping on any social network and EMYL coaching for Phosway.
 
 ## D. Benefits of Earn Money as You Learn to Free Software Revolution 2.0
 
+<!--
 - Purpose of EMYL is to provide training
+-->
 
 Consider this question:
 
