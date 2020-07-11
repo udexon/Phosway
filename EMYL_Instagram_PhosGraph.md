@@ -65,15 +65,22 @@ Jitsi Meet is a well established and popular open source video conferencing app.
 
 While we are not aware of any recent systematic studies into this problem, we may assume that difficulties in training developers due to unfamiliarity with new programming languages and frameworks, e.g. Jitsi Meet, would have prevented more free software programmers to participate. The readers are welcome to investigate this issue.
 
-Shell 
-
-Phoshell is not just a user interface, i.e. how users use a program. It is also a programming interface i.e. it enables programmers to reprogram the program via the shell. With Phoshell, programmers and users have an interface to think about the possibilities of FURTHER developing Jitsi Meet or any app. Interface is an important element for users and programmers to think what can be done with a porgram. e.g. The inventions of 2D screen , color screen, mouse, devices etc. gave rise to new generation of applications.
+Phoshell is not just a user interface, i.e. how users use a program. It is also a programming interface i.e. it enables programmers to reprogram the program via the shell. With Phoshell, programmers and users have an interface to think about the possibilities of FURTHER developing Jitsi Meet or any app. Interface is an important element for users and programmers to think what can be done with a porgram. e.g. The inventions of 2D screen, color screen, mouse, input devices etc. gave rise to new generation of applications.
 
 Phoshell have integrated the functionalities of shell (to access high level commands), interpreters (to access low level functions) as well as GUI (Phoshell is integrated into GUI of any app). Through networks, Phoshell can extend function libraries live on the fly, just like JavaScript front end. 
 
 ## "Superapp" 
 
 Although JavaScript can update function libraries on the fly via networks, but the programming language itself is too cumbersome to be used on the fly, via GUI. Phoshell is another layer added on top of web and mobile apps to enable extensible libraries (live loading) and live reprogramming. 
+
+While Phoshell provides a "supperapp" platform to merge all apps and games into one, we believe merging games is a good start as the goals are well defined.
+
+By adding Facebook functionalities to Jitsi Meet using Phoshell, we may have "universal social media app", Phosbook, for the sake of argument. We may add Reddit upvotes and karma functions to Phoshell. These are no longer unrealistic goals as Phoshell greatly simplifies the development work.
+
+List all these details.
+
+Refine Phoslibs. Built up function libraries for other apps. Easier to figure out than integrating apps.
+
 
 So just need to port code from other games apps to Phoshell. This is tutorial job. No need to be innovative yet. Some people can focus on leading edge innovations. But all can benefits from EMYL, both trainers and trainees.
 
@@ -84,9 +91,7 @@ It's like a superhero who can become anyone, Mystique Raven.
 https://en.m.wikipedia.org/wiki/Apocalypse_(comics)
 
 All games in one, all apps in one.
-Merging games is a good start. Well defined goals. Refine Phoslibs. Built up function libraries for other apps. Easier to figure out than integrating apps.
 
-Add Facebook to Jitsi Meet? Add Reddit upvote karma functions? List all these details.
 
 
 Quantify: number or percentage of programmers who can start contributing to a project within 1 hour, .... N hours.
