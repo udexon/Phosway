@@ -128,19 +128,15 @@ A to Z
 
 -->
 
-### Stages of Development
+### PhosApps: Stages of Development
 
-
-3. PhosApps: Phosway Applications: PhosPay PhosChat are critical for social networks? Forum comments, database are based on PhosGraph.
-
-Just describe how Phosway components replicate list of MAGAF, Twitter etc. 
-
-- Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2: Just use Phosway to clone MAGAF!!
-
+As readers would have noticed, Phos is a rather versatile prefix, originated from the Greek word for "light", which also rhymes with Forth, the original inspiration for this project. As such, we may term all Phosway Applications as PhosApps.
 
 Having understood the overall structure of Phosway, the timelines of development of various Phosway modules are decribed below:
 
-1. User A1 adds location information F1 for Instagrammer IG1.
+1. Extending PhosGraph
+
+User A1 adds location information F1 for Instagrammer IG1.
 
 Any user AX can update any information FX about Instagrammer IGX.
 
@@ -158,6 +154,13 @@ https://github.com/udexon/PhosPay
 Tipping on any social network and EMYL coaching for Phosway.
 
 :: List to do until PhosPay is usable …. This is the MOST IMPORTANT SECTION OF THE WHOLE ARTICLE!!!
+
+PhosPay PhosChat are critical for social networks? Forum comments, database are based on PhosGraph.
+
+Just describe how Phosway components replicate list of MAGAF, Twitter etc. 
+
+- Need more factors to conclude how EMYL Phosway will change FSR1 to FSR2: Just use Phosway to clone MAGAF!!
+
 
 
 3. IG1 holds meet the fans parties
