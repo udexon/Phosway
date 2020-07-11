@@ -73,26 +73,25 @@ Phoshell have integrated the functionalities of shell (to access high level comm
 
 Although JavaScript can update function libraries on the fly via networks, but the programming language itself is too cumbersome to be used on the fly, via GUI. Phoshell is another layer added on top of web and mobile apps to enable extensible libraries (live loading) and live reprogramming. 
 
-While Phoshell provides a "supperapp" platform to merge all apps and games into one, we believe merging games is a good start as the goals are well defined.
+Just like bash shell where new commands and libraries are added continuously, instead of installing new games as new mobile apps, Phoshell enables the function libraries of new games or apps to be added, integrated, reused and reprogrammed!
 
-By adding Facebook functionalities to Jitsi Meet using Phoshell, we may have "universal social media app", Phosbook, for the sake of argument. We may add Reddit upvotes and karma functions to Phoshell. These are no longer unrealistic goals as Phoshell greatly simplifies the development work.
+It's like a superhero who can become anyone, Mystique or [Apocalypse En Sabah Nur](https://en.m.wikipedia.org/wiki/Apocalypse_(comics)) in X Men.
 
-List all these details.
+While Phoshell provides a "superapp" platform to merge all apps and games into one, we believe merging games is a good start as the goals are well defined. While merging games, we build up function libraries for other apps at the same time. It is easier to figure out game logic than integrating social media apps as real world logic may be more restrictive.
 
-Refine Phoslibs. Built up function libraries for other apps. Easier to figure out than integrating apps.
+By adding Facebook functionalities to Jitsi Meet using Phoshell, we may create "universal social media app", Phosbook, for the sake of argument. We may add Reddit upvotes and karma functions to Phosbook. These are no longer unrealistic goals as Phoshell greatly simplifies the development work, via the PhosPay EMYL (Earn Money as You Learn) training framework outlined later in this article.
 
 
-So just need to port code from other games apps to Phoshell. This is tutorial job. No need to be innovative yet. Some people can focus on leading edge innovations. But all can benefits from EMYL, both trainers and trainees.
-
-Just like bash shell, new functions added continuously. Instead of installing new games as new mobile apps, Phoshell enables the function libraries of new games or apps to be added, integrated, reused and reprogrammed!
-
-It's like a superhero who can become anyone, Mystique Raven.
- Apocalypse En Sabah Nur villain in X men?
-https://en.m.wikipedia.org/wiki/Apocalypse_(comics)
+::
 
 All games in one, all apps in one.
 
+So just need to port code from other games apps to Phoshell. This is tutorial job. No need to be innovative yet. Some people can focus on leading edge innovations. But all can benefits from EMYL, both trainers and trainees.
 
+
+List all these details.
+
+Refine Phoslibs. 
 
 Quantify: number or percentage of programmers who can start contributing to a project within 1 hour, .... N hours.
 
