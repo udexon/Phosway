@@ -63,12 +63,13 @@ https://github.com/udexon/Phoshell/blob/master/PhosIDE_Part_III.md
 
 Jitsi Meet is a well established and popular open source video conferencing app. Video conferencing apps have gained unexpected popularity recently as the COVID19 pandemic looms. Jitsi Meet uses the React Redux framework and has source code for web client, Android and iOS apps respectively.
 
-Difficulties in training developers due to unfamiliarity with new programming language and framework, e.g. Jitsi Meet.
+While we are not aware of any recent systematic studies into this problem, we may assume that difficulties in training developers due to unfamiliarity with new programming languages and frameworks, e.g. Jitsi Meet, would have prevented more free software programmers to participate. The readers are welcome to investigate this issue.
 
+Shell 
 
-Shell Phoshell is not just a user interface (how user use program) but also programming interface (how to program the shell). With Phoshell, programmers and users have an interface to think about the possibilities of developing Jitsi Meet or any app. Interface is an important element for users and programmers to think what can be done with porgram. e.g. invention of screen , color screen, mouse, devices etc. gave rise to new generation of applications.
+Phoshell is not just a user interface, i.e. how users use a program. It is also a programming interface i.e. it enables programmers to reprogram the program via the shell. With Phoshell, programmers and users have an interface to think about the possibilities of FURTHER developing Jitsi Meet or any app. Interface is an important element for users and programmers to think what can be done with a porgram. e.g. The inventions of 2D screen , color screen, mouse, devices etc. gave rise to new generation of applications.
 
-Phoshell can do shell (high level commands), interpreters (low level functions), GUI (integrated into GUI). Through network, Phoshell extends function libraries live in real time, like JavaScript front end. 
+Phoshell have integrated the functionalities of shell (to access high level commands), interpreters (to access low level functions) as well as GUI (Phoshell is integrated into GUI of any app). Through networks, Phoshell can extend function libraries live on the fly, just like JavaScript front end. 
 
 Super app: JavaScript can update function libraries, but too cumbersome to reprogram on the fly. Phoshell is another layer needed on web and mobile to enable extensible libraries and live reprogramming. 
 
