@@ -1,4 +1,4 @@
-## Free Software Revolution 2.0: Be the change -- Become a Phosway Guru
+## Free Software Revolution 2.0: Be the change &mdash; Become a Phosway Guru
 - Have you ever wondered if there is a better way to develop software?
 - Have you ever wondered why MAGAF (Microsoft Amazon Google Apple Facebook) make billions while free software programmers are not fairly rewarded?
 - Do you want to join the Free Software Revolution 2.0 where you can Earn Money as You Learn (EMYL)?
