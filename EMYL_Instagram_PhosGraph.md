@@ -68,6 +68,59 @@ Jitsi Meet is a well established and popular open source video conferencing app.
 Difficulties in training developers due to unfamiliarity with new programming language and framework, e.g. Jitsi Meet.
 
 
+Shell Phoshell is not just a user interface (how user use program) but also programming interface (how to program the shell). With Phoshell, programmers and users have an interface to think about the possibilities of developing Jitsi Meet or any app. Interface is an important element for users and programmers to think what can be done with porgram. e.g. invention of screen , color screen, mouse, devices etc. gave rise to new generation of applications.
+
+Phoshell can do shell (high level commands), interpreters (low level functions), GUI (integrated into GUI). Through network, Phoshell extends function libraries live in real time, like JavaScript front end. 
+
+Super app: JavaScript can update function libraries, but too cumbersome to reprogram on the fly. Phoshell is another layer needed on web and mobile to enable extensible libraries and live reprogramming. 
+
+So just need to port code from other games apps to Phoshell. This is tutorial job. No need to be innovative yet. Some people can focus on leading edge innovations. But all can benefits from EMYL, both trainers and trainees.
+
+Just like bash shell, new functions added continuously. Instead of installing new games as new mobile apps, Phoshell enables the function libraries of new games or apps to be added, integrated, reused and reprogrammed!
+
+It's like a superhero who can become anyone, Mystique Raven.
+ Apocalypse En Sabah Nur villain in X men?
+https://en.m.wikipedia.org/wiki/Apocalypse_(comics)
+
+All games in one, all apps in one.
+Merging games is a good start. Well defined goals. Refine Phoslibs. Built up function libraries for other apps. Easier to figure out than integrating apps.
+
+Add Facebook to Jitsi Meet? Add Reddit upvote karma functions? List all these details.
+
+
+Quantify: number or percentage of programmers who can start contributing to a project within 1 hour, .... N hours.
+
+Complexity: median of last 10 commits to master branch.
+
+Number of hours a programmer needs to familiarize with project, and start making modifications.
+
+Use PhosVR code as reference?
+
+How many programmers or % of programmers are able to use Phoscript? vs. Efficiency if using native code?
+
+Debug capabilities using Phoscript?
+
+PhosVR is an attempt to develop new algorithms? Or old algorithms? Port from other gaming engines? Add social network functionalities to PhosVR? SecondLife? Reduce functionalities, bare basic is PhosTunnel stream mix, explain.
+
+From here relate to OSI layers and sequence of development.
+
+Some developers may not be interested in Phoscript. They can continue without using Phoscript. Others can add Phoscript interface to their code, then enable others to develop using Phoscript, without using native code. Illustrate HUDAPI. Can save time?
+
+Jitsi Meet allows room creation without login, a big step of departure from conventional centralized Unix style User authentication.
+
+Decentralized database. PhosGraph links to ID of Instagram, still a centralized database. Definition of decentralized vs. centralized? Example is tipping. 
+
+Difficulties in training developers due to unfamiliarity with new programming language and framework, e.g. Jitsi Meet.
+
+compare with Phosway.
+these modules have been completed. One word at a time. Easy to teach. Helps EMYL?
+
+Port existing code in other Programming Languages and frameworks to Phos. This is low level work. This explains more than 50% of Phosway plan.
+
+Helps individual project to train people, easier because of HUDAPI, incentivized by PhosPay
+
+:: Just use Jitsi Meet as example. 
+
 
 ::
 
