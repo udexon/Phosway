@@ -82,80 +82,25 @@ While Phoshell provides a "superapp" platform to merge all apps and games into o
 By adding Facebook functionalities to Jitsi Meet using Phoshell, we may create "universal social media app", Phosbook, for the sake of argument. We may add Reddit upvotes and karma functions to Phosbook. These are no longer unrealistic goals as Phoshell greatly simplifies the development work, via the PhosPay EMYL (Earn Money as You Learn) training framework outlined later in this article.
 
 
-::
+2. PhosKey, PhosGraph, PhosTunnel: critical components in distributed cloud, blockchain etc. 
 
-All games in one, all apps in one.
+As we have outlined in the previous section, Phoshell is a universal interface for porting various existing function libraries and apps. Here we briefly outline 3 modules that enable us to create a new type of cloud computing platform: PhosCloud.
 
-So just need to port code from other games apps to Phoshell. This is tutorial job. No need to be innovative yet. Some people can focus on leading edge innovations. But all can benefits from EMYL, both trainers and trainees.
+We postulate that the conventional cloud computing infrastructure is very much centred upon the Unix style user authentication paradigm, where there is always a central authority who can override everything else within the system. 
 
+Based on a fundamental breakthrough in the application of transient key cryptography, which we call PhosKey, where a user may generate a new pair of public and private keys for every transaction, we overcome the fundamental restriction of the conventional, centralized cloud computing paradigm.
 
-List all these details.
+Starting with this breakthrough, we may then redesign almost all cloud computing applications with a new paradigm.
 
-Refine Phoslibs. 
+Besides PhosKey and PhosGraph (outlined earlier), we need another essential element to complete our new cloud computing platform: SSH tunnel.
 
-Quantify: number or percentage of programmers who can start contributing to a project within 1 hour, .... N hours.
+SSH tunnel can be activated at VPS (virtual private servers) which cost around USD10 per month (MYR30). We believe the BitTorrent network is a variation of SSH tunnel. By using SSH tunnel (PhosTunnel), we enable a large number of mobile devices and home computers to be accessible as PhosCloud nodes.
 
-Complexity: median of last 10 commits to master branch.
+- PhosCloud = PhosKey + PhosGraph + PhosTunnel
 
-Number of hours a programmer needs to familiarize with project, and start making modifications.
+PhosCloud could be seen as an enhanced version of BitTorrent, where its functionalities are no restricted to only file transfer, but the whole of conventional cloud computing, except that this time, the infrastructure is literally and physically owned by individuals.
 
-Use PhosVR code as reference?
-
-How many programmers or % of programmers are able to use Phoscript? vs. Efficiency if using native code?
-
-Debug capabilities using Phoscript?
-
-PhosVR is an attempt to develop new algorithms? Or old algorithms? Port from other gaming engines? Add social network functionalities to PhosVR? SecondLife? Reduce functionalities, bare basic is PhosTunnel stream mix, explain.
-
-From here relate to OSI layers and sequence of development.
-
-Some developers may not be interested in Phoscript. They can continue without using Phoscript. Others can add Phoscript interface to their code, then enable others to develop using Phoscript, without using native code. Illustrate HUDAPI. Can save time?
-
-Jitsi Meet allows room creation without login, a big step of departure from conventional centralized Unix style User authentication.
-
-Decentralized database. PhosGraph links to ID of Instagram, still a centralized database. Definition of decentralized vs. centralized? Example is tipping. 
-
-Difficulties in training developers due to unfamiliarity with new programming language and framework, e.g. Jitsi Meet.
-
-compare with Phosway.
-these modules have been completed. One word at a time. Easy to teach. Helps EMYL?
-
-Port existing code in other Programming Languages and frameworks to Phos. This is low level work. This explains more than 50% of Phosway plan.
-
-Helps individual project to train people, easier because of HUDAPI, incentivized by PhosPay
-
-these modules have been completed. One word at a time. Easy to teach. Helps EMYL?
-
-- Port existing code in other Programming Languages and frameworks to Phos. This is low level work. This explains more than 50% of Phosway plan.
-
-Helps individual project to train people, easier because of HUDAPI, incentivized by PhosPay
-
-
-
-:: Just use Jitsi Meet as example. 
-:: Add link to Jitsi Meet Phoom, rename as PhosVR?
-::
-
-Roles of programming langauges in other project:
-
-a. projects with one programming language
-
-b. projects with multiple programming languages
-
-compare with Phosway.
-
-
-2. PhosKey, PhosGraph, PhosTunnel: critical components in distributed cloud, blockchain etc. Used together with PhosGraph.
-
-How might one make use of the data in PhosGraph?
-
-
-3. PhosCloud = PhosKey + PhosGraph + PhosTunnel
-
-PhosCloud needs ssh tunnel shared vps. BitTorrent ++.
-
-
-4. Phosway Applications: PhosPay PhosChat are critical for social networks PhosNet? . Forum comments, database are based on PhosGraph.
+3. PhosApps: Phosway Applications: PhosPay PhosChat are critical for social networks? Forum comments, database are based on PhosGraph.
 
 Just describe how Phosway components replicate list of MAGAF, Twitter etc. 
 
@@ -164,7 +109,11 @@ Just describe how Phosway components replicate list of MAGAF, Twitter etc. 
 
 :: At end of list, need a new leading expressive paragraph.
 
+SSH tunnel is also based on TKC?
 
+How might one make use of the data in PhosGraph?
+
+PhosCloud needs ssh tunnel shared vps. BitTorrent ++.
 
 :: N4 explaining why CLONING ... not that bad ... every section needs ONLY ONE EXPRESSIVE LEADING paragraph that reads natural to readers, to convey the contents of that section. The rest of the section are either subsections (list of paragraphs, not expressive), or expansion from the LEADING paragraph. The a complete article is made up of sections. A section is a list of expressive (leading) paragraph plus non-expressive paragraphs.
 
