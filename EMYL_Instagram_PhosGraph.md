@@ -220,7 +220,7 @@ Imagine this: paying the top 1000 free software programmers USD1000 per week onl
 If we define transparency of software investment life cycle as the minimum period an investor may review the development, we will then have the following:
 
 - Conventional start up: minimum 3 months, 5 people team.
-- EMYL: weekly, one programmer; Programmers use free time after work; cost = tipping amount; More free man power after COVID19 crisis.
+- EMYL: weekly, one programmer; (Programmers use free time after work; cost = tipping amount; More free man power after COVID19 crisis.)
 
 EMYL preserves the transparency of free software development while introducing a novel reward mechanism for all free software programmers. It is also more beneficial compared to conventional start-up investment model, as investors can review the progress more frequently, with a smaller amount of investments.
 
