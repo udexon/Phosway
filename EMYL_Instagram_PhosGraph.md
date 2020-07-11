@@ -1,4 +1,4 @@
-EMYL Instagram PhosGraph
+# Free Software Revolution 2.0: Cloning MAGA+F and Earn Money as You Learn
 
 We define Free Software Revolution 1.0 (FSR1) as the period encompassing the creation of GNU Linux and tools to Google's acquisition of the Android operating system. The mobile computing era, empowered by Android and iOS, saw the rise of tech giants and start-ups worth trillions of USD, as well as cryptocurrencies. 
 
