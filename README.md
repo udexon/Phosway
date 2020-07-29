@@ -26,7 +26,7 @@ PhosPay can create communities of agents and investors, pooling funds with ID-le
 
 Free software programmers can now build a distributed cloud computing system that is truly "owned by everyone", instead of being exploited by giant tech hegemons where free software programmers have no means of negotiating the fees to use their contributions, via PhosPay and PhosCloud.
 
-PhosVR is the culmination of Dr. Ng Liang Shing's expertise in image processing, metaprogramming and ID-less transactions:
+PhosVR is the culmination of our expertise in image processing, metaprogramming and ID-less transactions:
 Imagine, instead of seeing half a dozen of your colleagues in six split screens, now they are seated in a virtual boardroom at a round table, in vivid 3D views.
 Imagine an app that extracts the face or body of someone dancing, merging the dancing bodies of a dozen or several dozen other dancers at different locations, projected into an augmented reality, letting all participants to participate in an AR dance pool — much like a Zoom session, but in 3D AR.
 
