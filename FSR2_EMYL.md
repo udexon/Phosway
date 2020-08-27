@@ -53,7 +53,7 @@ We may still use them as and when needed.
 
 In order to present an overview of Phosway, we categorize the various modules of Phosway according to a model similar to the OSI layers, from low level to high level:
 
-1. Phoscript / Phoshell
+### 1. Phoscript / Phoshell
 
 Phoscript is a Reverse Polish Notation, stack machine programming language, derived from the Forth programming language.
 
@@ -71,7 +71,7 @@ Phoshell is not just a user interface, i.e. how users use a program. It is also 
 
 Phoshell have integrated the functionalities of shell (to access high level commands), interpreters (to access low level functions) as well as GUI (Phoshell is integrated into GUI of any app). Through networks, Phoshell can extend function libraries live on the fly, just like JavaScript front end. 
 
-## "Superapp" 
+### "Superapp" 
 
 Although JavaScript can update function libraries on the fly via networks, but the programming language itself is too cumbersome to be used on the fly, via GUI. Phoshell is another layer added on top of web and mobile apps to enable extensible libraries (live loading) and live reprogramming. 
 
@@ -84,7 +84,7 @@ While Phoshell provides a "superapp" platform to merge all apps and games into o
 By adding Facebook functionalities to Jitsi Meet using Phoshell, we may create "universal social media app", Phosbook, for the sake of argument. We may add Reddit upvotes and karma functions to Phosbook. These are no longer unrealistic goals as Phoshell greatly simplifies the development work, via the PhosPay EMYL (Earn Money as You Learn) training framework outlined later in this article.
 
 
-2. PhosCloud = PhosKey + PhosGraph + PhosTunnel
+### 2. PhosCloud = PhosKey + PhosGraph + PhosTunnel
 
 <!--
 PhosKey, PhosGraph, PhosTunnel: critical components in distributed cloud, blockchain etc. 
@@ -132,7 +132,7 @@ A to Z
 
 -->
 
-3. PhosApps: Phosway Applications
+### 3. PhosApps: Phosway Applications
 
 <!-- Stages of Development -->
 
