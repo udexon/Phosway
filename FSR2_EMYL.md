@@ -102,7 +102,7 @@ Besides PhosKey and PhosGraph (outlined earlier), we need another essential elem
 
 SSH tunnel can be activated at VPS (virtual private servers) which cost around USD10 per month (MYR30). We believe the BitTorrent network is a variation of SSH tunnel. By using SSH tunnel (PhosTunnel), we enable a large number of mobile devices and home computers to be accessible as PhosCloud nodes.
 
-PhosCloud could be seen as an enhanced version of BitTorrent, where its functionalities are no restricted to only file transfer, but the whole of conventional cloud computing, except that this time, the infrastructure is literally and physically owned by individuals.
+PhosCloud could be seen as an enhanced version of BitTorrent, where its functionalities are not restricted to only file transfer, but the whole of conventional cloud computing, except that this time, the infrastructure is literally and physically owned by individuals.
 
 <!-- 
 
