@@ -1,6 +1,6 @@
 ## Graph. Path. File. JSON.
 
-- Filename: month letter others .md
+<!-- - Filename: month letter others .md -->
 
 The Unix path is derived from graph theory path. After many years of winding paths (pun intended) of developments in computer programming, we finally have JSON (JavaScript Object Notation).
 
