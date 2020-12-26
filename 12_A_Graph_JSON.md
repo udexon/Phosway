@@ -22,6 +22,32 @@ F(": mn mknode ;"); // mn make node; wn: write node; rn: read node;
 
 `pbk role node_name mn wn:` creates a node in the form of a PHP associative array (object) &mdash; when written to file using `wn:` it becomes a directory tree `node_name`, with files `pbk` containing public key, and `role` containing role description.
 
+```
+$ date
+Sabtu 26 Dis 2020 03:27:01  +08
+$ php phos.php 1221 device dev_A mn wn:
+$ ls -lR Graph
+Graph:
+total 8
+drwxrwxr-x 2 hongwu hongwu 4096 Dis  26 10:06 dev_A
+drwxrwxr-x 2 hongwu hongwu 4096 Dis  25 19:39 dev_B
+
+Graph/dev_A:
+total 16
+-rw-rw-r-- 1 hongwu hongwu 1 Dis  26 10:06 address
+-rw-rw-r-- 1 hongwu hongwu 5 Dis  26 15:27 name
+-rw-rw-r-- 1 hongwu hongwu 4 Dis  26 15:27 pbk
+-rw-rw-r-- 1 hongwu hongwu 6 Dis  26 15:27 role
+
+Graph/dev_B:
+total 12
+-rw-rw-r-- 1 hongwu hongwu 5 Dis  25 19:39 name
+-rw-rw-r-- 1 hongwu hongwu 4 Dis  25 19:39 pbk
+-rw-rw-r-- 1 hongwu hongwu 6 Dis  25 19:39 role
+```
+Note the date/time above in subdirectory `dev_A`.
+
+
 They can be displayed with `ls -R Graph`:
 
 ```
