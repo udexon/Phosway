@@ -60,8 +60,8 @@ fgl_s 451 < 5 > array ( 0 => array ( 0 => 'phos.php', 1 => 'dev_B', 2 => 'Graph'
 
 PHP associative arrays can be coverted to and from JSON using the following commands:
 
-`je:` maps to `json_encode()`
-`jd:` maps to `json_decode()`
+- `je:` maps to `json_encode()`
+- `jd:` maps to `json_decode()`
 
 Examples:
 
