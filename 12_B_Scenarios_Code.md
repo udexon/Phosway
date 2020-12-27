@@ -64,11 +64,17 @@ indices for array.
 
 `s:` shows results on stack.
 
+The commands above are equivalent to `ls -R`:
+
 ```
 $ ls -R Graph/can_A
 Graph/can_A:
 address  location  name  pbk  role
 ```
+
+The following commands write the locations of `can_A` 
+to the file `Graph/can_A/location` before and after Adam
+passes it to Brian:
 
 ```
 $ p p_Adam.location Graph/can_A/location w: s:
@@ -87,6 +93,11 @@ fgl_s 451 < 3 > array (
 1 => 'phos.php', 
 2 => array ( 0 => 'p_Brian.location', ), )
 ```
+
+`string filename w:` writes `string` to `filename`
+using `file_put_contents()`.
+
+`filename fi:` reads `filename` using `file_get_contents()`.
 
 - Add intermediate steps: p_Adam 
 
