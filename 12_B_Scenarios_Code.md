@@ -70,11 +70,11 @@ fgl_s 451 < 3 > array (
 - Add intermediate steps: p_Adam 
 
 From the examples above, we hope to demonstrate that
-Phoscript is equivalent to "pseudocode" in the literal sense,
-Yet, it is a full fledged programming language, 
-Capable of being translated to any other known
+- Phoscript is equivalent to "pseudocode" in the literal sense,
+- Yet, it is a full fledged programming language, 
+- Capable of being translated to any other known
 Programming languages and platforms.
-Hence, we describe Phoscript as a metaprogramming script.
+- Hence, we describe Phoscript as a metaprogramming script.
 
 
 Phoscript is the least cost common denominator that can be translated into any platforms or programming languages.
