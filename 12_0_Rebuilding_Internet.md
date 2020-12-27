@@ -38,7 +38,11 @@ As such, Phosway allows senior programmers to develop interface Phoscript words 
 
 1. Programs are executed in multiple devices: e.g. device A owned by Adam and device B owned by Brian.
 
-2. Implement communication protocols to update information across multiple devices: Websocket etc. 
+2. Implement communication protocols to update information across multiple devices: 
+  - i. SSH tunnel
+  - ii. HTTP server
+  - iii. Websocket 
+  - etc. 
 
 3. Add the following as graph nodes:
   - i. Instagram followers count 
