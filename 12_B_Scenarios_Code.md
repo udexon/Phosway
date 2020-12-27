@@ -1,4 +1,4 @@
-## Translating Scenarios to Code for Decentralized E Commerce (DECCOM)
+## Translating Real Life Scenarios to Code for Decentralized E Commerce (DECCOM) using Phoscript
 
 In this article, we describe a scenario where 
 Adam decides to recycle a empty can (a Coke can, shown below)
