@@ -40,7 +40,7 @@ As such, Phosway allows senior programmers to develop interface Phoscript words 
 
 2. Implement communication protocols to update information across multiple devices: Websocket etc. 
 
-3. Add the following as graph node.
+3. Add the following as graph nodes:
   - i. Instagram followers count 
   - ii. Phoshtron GLAVA
   
