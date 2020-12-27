@@ -4,8 +4,8 @@
 
 In this article, we describe a scenario where 
 Adam decides to recycle a empty can (a Coke can, shown below)
-By giving it away to Brian, who works for 
-a recycling company.
+by giving it away to Brian, who works for 
+a recycling company:
 
 1. Adam passes Can A to Brian.
 
@@ -22,6 +22,8 @@ end:   can_A.location = p_Brian.location
 
 
 Create nodes for the above.
+
+
 
 
 ```
