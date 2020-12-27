@@ -15,3 +15,13 @@ end:   can_A.address = p_Brian.address
 Create nodes for the above.
 
 Phoscript is the least cost common denominator that can be translated into any platforms or programming languages.
+
+```
+alias p='php phos.php'
+```
+
+```
+$ p Graph rn: av: 1 i: s:
+
+fgl_s 451 < 4 > array ( 0 => array ( 0 => 'phos.php', 1 => 'Graph', 2 => 'rn:', 3 => 'av:', 4 => '1', 5 => 'i:', 6 => 's:', ), 1 => 'phos.php', 2 => 'Graph', 3 => array ( 'Graph/can_A' => array ( ), 'Graph/can_A/address' => 'Graph/can_A/address', 'Graph/can_A/name' => 'Graph/can_A/name', 'Graph/can_A/pbk' => 'Graph/can_A/pbk', 'Graph/can_A/role' => 'Graph/can_A/role', ), )
+```
