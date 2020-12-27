@@ -26,7 +26,8 @@ https://github.com/udexon/Phosway/blob/master/12_B_Scenarios_Code.md
 
 https://github.com/udexon/Phosway/blob/master/12_C_Self_Node.md
 
-In the mknode example above, the host programming language is PHP.
+In the examples above,
+ the host programming language is PHP.
 
 As such, Phosway allows senior programmers to develop interface Phoscript words (function names) mapped to the host programming language, thus realizing the "last mile" in division of labour in programming projects. 
 
