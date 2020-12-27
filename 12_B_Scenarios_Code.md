@@ -9,6 +9,8 @@ a recycling company:
 
 2. Brian carries Can A to a store room.
 
+<img src="https://github.com/udexon/Phosway/blob/master/img/Can_A_Coke_Can.jpg" width=300>
+
 Expressed in JavaScript or equivalent programming languages:
 
 ```
@@ -17,7 +19,7 @@ begin: can_A.location = p_Adam.location
 end:   can_A.location = p_Brian.location
 ```
 
-Although in this example, there is no monetary transaction, it demonstrate the potential complexties in terms of coding for a seemingly trivial transaction in real life. Further, we show that how such complications in coding can be simplified using Phoscript, a metaprogramming script derived from the Foth programming language.
+Although in this example, there is no monetary transaction, it demonstrates the potential complexties in terms of coding for a seemingly trivial transaction in real life. Further, we show that how such complications in coding can be simplified using Phoscript, a metaprogramming script derived from the Foth programming language.
 
 1. The examples below are executed in Linux `bash` shell. 
 
