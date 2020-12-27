@@ -44,10 +44,16 @@ address  name  pbk  role
 $ p p_Adam.address Graph/can_A/address w: s:
 $ p Graph/can_A/address fi: s:
 
-fgl_s 451 < 3 > array ( 0 => array ( 0 => 'phos.php', 1 => 'Graph/can_A/address', 2 => 'fi:', 3 => 's:', ), 1 => 'phos.php', 2 => array ( 0 => 'p_Adam.address', ), )
+fgl_s 451 < 3 > array ( 
+0 => array ( 0 => 'phos.php', 1 => 'Graph/can_A/address', 2 => 'fi:', 3 => 's:', ), 
+1 => 'phos.php', 
+2 => array ( 0 => 'p_Adam.address', ), )
 
 $ p p_Brian.address Graph/can_A/address w: s:
 $ p Graph/can_A/address fi: s:
 
-fgl_s 451 < 3 > array ( 0 => array ( 0 => 'phos.php', 1 => 'Graph/can_A/address', 2 => 'fi:', 3 => 's:', ), 1 => 'phos.php', 2 => array ( 0 => 'p_Brian.address', ), )
+fgl_s 451 < 3 > array ( 
+0 => array ( 0 => 'phos.php', 1 => 'Graph/can_A/address', 2 => 'fi:', 3 => 's:', ), 
+1 => 'phos.php', 
+2 => array ( 0 => 'p_Brian.address', ), )
 ```
