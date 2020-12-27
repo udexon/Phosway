@@ -20,27 +20,30 @@ Phosway is a geeky pun derived from the Forth programming language and Amway.
 
 - Phosway allows the creation of Sandwich API, where at the highest layer, Phoscript, a metaprogramming scripting language derived from Forth, is used to call functions in a host programming language.
 
-https://github.com/udexon/Phosway/blob/master/12_A_Graph_JSON.md
 
-https://github.com/udexon/Phosway/blob/master/12_B_Scenarios_Code.md
+## Fundamentals of Decentralized E Commerce (DECCOM) using Phoscript
 
-https://github.com/udexon/Phosway/blob/master/12_C_Self_Node.md
+- [Part A](https://github.com/udexon/Phosway/blob/master/12_A_Graph_JSON.md)
 
-In the examples above,
- the host programming language is PHP.
+- [Part B](https://github.com/udexon/Phosway/blob/master/12_B_Scenarios_Code.md)
+
+- [Part C](https://github.com/udexon/Phosway/blob/master/12_C_Self_Node.md)
+
+In the examples above, the host programming language is PHP.
 
 As such, Phosway allows senior programmers to develop interface Phoscript words (function names) mapped to the host programming language, thus realizing the "last mile" in division of labour in programming projects. 
 
-Save Instagram followers count as graph node.
+
+## D. Future Plans
+
+1. Save Instagram followers count as graph node.
+
+2. Programs are executed in multiple devices: e.g. device A owned by Adam and device B owned by Brian.
+
+3. Implement communication protocols to update information across multiple devices: Websocket etc. 
 
 
-Phoscript is the least cost common denominator that can be translated into any platforms or programming languages.
-
-Programs are executed device A owned by Adam and device B owned by Brian.
-
-Websocket etc. Communication protocols, update information.
-
-==== 
+## E. Conclusions
 
 In contrast to conventional programing languages and frameworks, what we have demonstrated are quite different but can be readily interfaced to the former.
 
@@ -49,14 +52,12 @@ We wish to demonstrate that, Phoscript systems can be adapted to various program
 As such, we hope that Phoscript can become a universal metaprogramming script of choice for beginners as well as experts of various fields, especially those within the computing industry.
 
 
-
-
-
-
-
-
-
 <hr>
+
+<!--
+
+Phoscript is the least cost common denominator that can be translated into any platforms or programming languages.
+
 
 To show readers and viewers how simple our lesson is:
 
@@ -69,3 +70,5 @@ Story / Scenario to Code.
 Adam passes Can A to Brian.
 Brian carries Can A to store room.
 Create nodes for the above.
+
+-->
