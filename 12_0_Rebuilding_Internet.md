@@ -36,12 +36,14 @@ As such, Phosway allows senior programmers to develop interface Phoscript words 
 
 ## D. Future Plans
 
-1. Save Instagram followers count as graph node.
+1. Programs are executed in multiple devices: e.g. device A owned by Adam and device B owned by Brian.
 
-2. Programs are executed in multiple devices: e.g. device A owned by Adam and device B owned by Brian.
+2. Implement communication protocols to update information across multiple devices: Websocket etc. 
 
-3. Implement communication protocols to update information across multiple devices: Websocket etc. 
-
+3. Add the following as graph node.
+  - i. Instagram followers count 
+  - ii. Phoshtron GLAVA
+  
 
 ## E. Conclusions
 
