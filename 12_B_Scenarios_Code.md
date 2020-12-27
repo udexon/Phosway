@@ -1,6 +1,4 @@
-- Story / 
-
-## Scenario to Code
+## Translating Scenarios to Code for Decentralized E Commerce (DECCOM)
 
 In this article, we describe a scenario where 
 Adam decides to recycle a empty can (a Coke can, shown below)
@@ -19,20 +17,26 @@ begin: can_A.location = p_Adam.location
 end:   can_A.location = p_Brian.location
 ```
 
+Although in this example, there is no monetary transaction, it demonstrate the potential complexties in terms of coding for a seemingly trivial transaction in real life. Further, we show that how such complications in coding can be simplified using Phoscript, a metaprogramming script derived from the Foth programming language.
 
+1. The examples below are executed in Linux `bash` shell. 
 
-Create nodes for the above.
-
-
-In the examples below, we created an alias `p`
-for `php phos.php` for convenience:
+We created an alias `p` for `php phos.php` for convenience:
 
 ```
-alias p='php phos.php'
+$ alias p='php phos.php'
 ```
 
-Add code can_A mn
+2. Make node for empty coke can `can_A`:
 
+```
+$ p 1221 drink_can can_A mn wn: s:
+```
+
+(Please refer to [previous tutorial](https://github.com/udexon/Phosway/blob/master/12_A_Graph_JSON.md) for definitions and details.)
+
+
+3.  Read node for `can_A`:
 
 ```
 $ p Graph rn: av: 1 i: s:
@@ -72,7 +76,7 @@ Graph/can_A:
 address  location  name  pbk  role
 ```
 
-The following commands write the locations of `can_A` 
+4. The following commands write the locations of `can_A` 
 to the file `Graph/can_A/location` before and after Adam
 passes it to Brian:
 
@@ -99,14 +103,21 @@ using `file_put_contents()`.
 
 `filename fi:` reads `filename` using `file_get_contents()`.
 
-- Add intermediate steps: p_Adam 
 
-From the examples above, we hope to demonstrate that:
+
+5. From the examples above, we hope to demonstrate that:
 - Phoscript is equivalent to "pseudocode" in the literal sense,
 - Yet, it is a full fledged programming language, 
 - Capable of being translated to any other known
 Programming languages and platforms.
 - Hence, we describe Phoscript as a metaprogramming script.
 
-
 Phoscript is the least cost common denominator that can be translated into any platforms or programming languages.
+
+<!--
+- Story / 
+
+Create nodes for the above.
+
+- Add intermediate steps: p_Adam 
+-->
