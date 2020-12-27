@@ -24,11 +24,15 @@ end:   can_A.location = p_Brian.location
 Create nodes for the above.
 
 
-
+In the examples below, we created an alias `p`
+for `php phos.php` for convenience:
 
 ```
 alias p='php phos.php'
 ```
+
+Add code can_A mn
+
 
 ```
 $ p Graph rn: av: 1 i: s:
@@ -49,6 +53,16 @@ fgl_s 451 < 4 > array (
   ), )
 
 ```
+
+`Graph rn:` recursively reads directory `Graph`
+and construct object (PHP associative array).
+
+`av:` executes `array_values()` to obtain numerical
+indices for array.
+
+`1 i:` selects item 1.
+
+`s:` shows results on stack.
 
 ```
 $ ls -R Graph/can_A
