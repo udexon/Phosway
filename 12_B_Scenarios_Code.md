@@ -1,10 +1,15 @@
 - Story / 
 
-Scenario to Code.
+## Scenario to Code
 
-Adam passes Can A to Brian.
+In this article, we describe a scenario where 
+Adam decides to recycle a empty can (a Coke can, shown below)
+By giving it away to Brian, who works for 
+a recycling company.
 
-Brian carries Can A to store room.
+1. Adam passes Can A to Brian.
+
+2. Brian carries Can A to a store room.
 
 Expressed in JavaScript or equivalent programming languages:
 
@@ -69,7 +74,7 @@ fgl_s 451 < 3 > array (
 
 - Add intermediate steps: p_Adam 
 
-From the examples above, we hope to demonstrate that
+From the examples above, we hope to demonstrate that:
 - Phoscript is equivalent to "pseudocode" in the literal sense,
 - Yet, it is a full fledged programming language, 
 - Capable of being translated to any other known
