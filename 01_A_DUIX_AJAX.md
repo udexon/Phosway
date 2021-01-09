@@ -44,11 +44,14 @@ As such, the following "functions" (Colon Definition Words (CDW) in Forth termin
 - d. `B_G`
 - e. `F_A`
 
-The "main program" is:
+5. The "main program" is:
 
 ```
 B: B_G F_T
 ```
 
+`B:` maps to JavaScript function `f_B()` which does the following:
+- sends commands defined by `B_G` to the back end (`B_` signifies back end while `G` denotes Graph Query) and;
+- invokes `F_T` upon receiving Ajax results;
 
 - http://localhost/2021/Phosway/d09/pup/phoshell.php?x
