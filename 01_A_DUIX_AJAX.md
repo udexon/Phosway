@@ -86,5 +86,20 @@ ih: alert: ac: alert: ;
   - `table tn:` creates `<table> ... </table>`
   - `ih:` defines `.innerHTML` for `<div>`
   - `ac:` calls `appendChild()` to append `<div>` to end of `<body>`
+- c. Definitions for `row` and `cell`:
+```
+: cell G0 gv: swap: i: th tn: ; 
+: row 0 cell 1 cell 2 cell 3 ms: tr tn: ; 
+```
+- &mdash;
+  - `row` definitions:
+    - `0 cell` passes `0` to `cell`, etc.
+    - `3 ms:` merges HTML code for 3 cells into one string;
+    - `tr tn:` creates `<tr> ... </tr>`
+  - `cell` definitions:
+    - `G0 gv:` get global variable G0, i.e. keys of Graph query results;
+    - `swap:` changes order of array and index, so that `i:` extracts the element from the array;
+    - `th tn:` creates `<th> ... </tn>`
+    
 
 - http://localhost/2021/Phosway/d09/pup/phoshell.php?x
