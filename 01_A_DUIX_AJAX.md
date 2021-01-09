@@ -6,8 +6,7 @@
 
 - a. querying a graph database at the back end
 - b. displaying the query results in a HTML table in the front end
-
-- Figure 1
+  - Figure 1
 <img src="https://github.com/udexon/Phosway/blob/master/img/DUIX_AJAX.png" width=600>
 
 
