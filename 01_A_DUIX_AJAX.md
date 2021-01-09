@@ -1,3 +1,13 @@
+## DUIX: Unconventional Procedures in AJAX
+
+1. DUIX stands for Decentralized User Interactions, a new framework within the Phosway architure to complement or replace existing MVC type frameworks.
+
+2. Figure 1 shows a PHOS command window, containing commands in Phoscript, that perform the following functions:
+
+- a. querying a graph database at the back end
+- b. displaying the query results in a HTML table in the front end
+
+- Figure 1
 <img src="https://github.com/udexon/Phosway/blob/master/img/DUIX_AJAX.png" width=600>
 
 
