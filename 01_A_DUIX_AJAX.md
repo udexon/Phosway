@@ -65,5 +65,26 @@ ON ECHO bv: je: ec: ;
   - v.  `ec:` sends TOS (top of stack) (`json_encode()` results) to front end, via Ajax.
 
 - b. invokes `F_T` upon receiving Ajax results;
+  - i. `F_T` definition:
+```
+: F_T jd: ak: alert: G0 sv: 
+body getn: 0 i: div ce: 
+row row row 3 ms: 
+table tn: alert: 
+ih: alert: ac: alert: ; 
+```
+- &mdash;
+  - ii. `jd:` originally maps to PHP `json_decode()`. We retain the same function name in JavaScript for uniformity.
+  - `ak:` originally maps to PHP `array_keys()`, returns an array of keys from the input object.
+  - `alert:` shows TOS (top of stack) in `alert()` window for debugging. This is useful as DUIX is designed for development on mobile in mind, where the browser console is not available.
+  - `G0 sv:` saves the results of `ak:` as global variable `G0`, which will be read many times later while constructing a HTML table;
+  - `body getn:` calls `getElementsByTagName()` to get `<body>`.
+  - `0 i:` extracts the 0-th element from array returned by `getn:`
+  - `div ce:` calls `createElement()` to create `<div>`
+  - `row` calls Colon Definition Word `row`. This is called 3 times to make 3 rows in HTML table.
+  - `3 ms:` merge HTML code for 3 rows into one string;
+  - `table tn:` creates `<table> ... </table>`
+  - `ih:` defines `.innerHTML` for `<div>`
+  - `ac:` calls `appendChild()` to append `<div>` to end of `<body>`
 
 - http://localhost/2021/Phosway/d09/pup/phoshell.php?x
