@@ -1,3 +1,5 @@
+<img src="https://github.com/udexon/Phosway/blob/master/img/DUIX_AJAX.png" width=600>
+
 
 ```
 : cell G0 gv: swap: i: th tn: ; 
@@ -11,3 +13,5 @@ ih: alert: ac: alert: ;
 ON ECHO bv: je: ec: ; 
 : F_A 333 ; B: B_G F_T
 ```
+
+- http://localhost/2021/Phosway/d09/pup/phoshell.php?x
