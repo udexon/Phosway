@@ -13,6 +13,8 @@
 - b. JavaScript front-end
 - c. PHP back-end
 
+For mobile versions, we will be using [Jitsi Meet](https://github.com/udexon/jitsi-meet) as code base.
+
 
 3. The various platforms involved in PhosDUIX illustrate the fragmented nature of today's web ecosystem, and how PhosDUIX provides an ___ELEGANT___ and ___SIMPLIFIED___ solution to this seemingly intractable problem.
 
